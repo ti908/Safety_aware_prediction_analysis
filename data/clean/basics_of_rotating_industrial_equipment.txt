@@ -1,0 +1,4967 @@
+1
+BASICS OF ROTATING
+INDUSTRIAL EQUIPMENT
+An Introduction to
+Rotating Equipment
+### Maintenance
+2
+Basics of  Rotating Industrial Equipm
+ent
+Objectives
+– Define safety needs and lockout procedures.
+– Identify rotating equipment.
+– List the major components of rotating equipment
+and explain their function.
+– Identify the auxiliary equipment required to
+maintain rotating equipment operation.
+– Define inspection and preventative maintenance
+techniques.
+3
+Basics of  Rotating Industrial Equipm
+ent
+Equipment
+ Compressors
+- Rotating, screw  and centrifugal types
+ Turbines
+– Gas turbines
+ Pumps
+– Basic types and Centrifugal
+ Fans, Blowers, and Louvers
+4
+Basics of  Rotating Industrial Equipm
+ent
+Auxiliary and Support Systems
+ Lubrication
+ Bearing
+ Seals
+ Alignment
+ Vibration Analysis
+ Thermal Analysis
+5
+Basics of  Rotating Industrial Equipm
+ent
+TOPICS – Click to view
+ General Safety Topics
+ Compressors
+ Pumps
+ Turbines
+ Fans and Louvers
+
+5
+Basics of  Rotating Industrial Equipm
+ent
+TOPICS – Click to view
+ General Safety Topics
+ Compressors
+ Pumps
+ Turbines
+ Fans and Louvers
+ Lubrication Requirements
+ Bearings
+ Seals
+ Alignment
+ Vibration Analysis
+ Thermal Analysis
+ Preventative Maintenance
+ Fault Recognition
+6
+GENERAL SAFETY TOPICS
+7
+Basics of  Rotating Industrial Equipm
+ent
+Tenets of Maintenance Safety
+1. Always operate equipment within design or
+environment limits.
+2. Always work in a safe and controlled condition.
+3. Always ensure safety devices are in place and
+functioning.
+4. Always follow safe work practices and procedures.
+5. Always meet or exceed customer’s requirements.
+6. Always maintain integrity of dedicated systems.
+7. Always comply with all applicable rules and
+regulations.
+8
+Basics of  Rotating Industrial Equipm
+ent
+Tenets of Maintenance Safety
+5. Always meet or exceed customer’s
+requirements.
+6. Always maintain integrity of dedicated
+systems.
+7. Always comply with all applicable rules and
+regulations.
+9
+
+Tenets of Maintenance Safety
+5. Always meet or exceed customer’s
+requirements.
+6. Always maintain integrity of dedicated
+systems.
+7. Always comply with all applicable rules and
+regulations.
+9
+Basics of  Rotating Industrial Equipm
+ent
+### Safety Meetings
+ The primary purpose of safety meetings is to
+prevent accidents from happening.
+ Safety Meetings should discuss recent incidents,
+accident causes, lessons learned, and hazard
+awareness.
+10
+Basics of  Rotating Industrial Equipm
+ent
+Accident Causes
+ Whenever an accident occurs, someone always
+asks, “How did it happen?”
+ Accidents do not “just happen”—they are caused
+ If we are going to eliminate accidents we must
+have some idea of what causes of accidents can
+be.
+– Unsafe Conditions
+– Unsafe Acts
+11
+Basics of  Rotating Industrial Equipm
+ent
+Unsafe Conditions
+ Unsafe conditions are those things that can be
+seen by inspecting and looking for hazards in the
+work environment.
+ Unsafe conditions are usually created by poor
+housekeeping, improper storage, defective or
+broken equipment, or removing guards from
+machinery.
+ This is the principle reason that safety
+
+ Unsafe conditions are those things that can be
+seen by inspecting and looking for hazards in the
+work environment.
+ Unsafe conditions are usually created by poor
+housekeeping, improper storage, defective or
+broken equipment, or removing guards from
+machinery.
+ This is the principle reason that safety
+inspections should be done on a scheduled
+basis.
+12
+Basics of  Rotating Industrial Equipm
+ent
+Unsafe Acts
+ What are unsafe acts or unsafe practices?
+– Reaching into a running machine
+– Operating a machine without guards
+– Using defective tools or equipment
+– Indulging in horseplay on the job
+13
+Basics of  Rotating Industrial Equipm
+ent
+Hazard Awareness
+ The main indicator of an existing hazard is by the
+posting of signs.
+ Other indicators are listed below:
+– Safety Meetings
+– Toolbox Meetings
+– Procedure Warnings and Cautions
+– System and Work Site Familiarity
+14
+Basics of  Rotating Industrial Equipm
+ent
+Rotating Equipment Safety
+ All persons working near or around rotating
+equipment should be familiar with the location
+and operation of all stopping devices.
+ Be alert when in equipment areas, leaning
+
+Basics of  Rotating Industrial Equipm
+ent
+Rotating Equipment Safety
+ All persons working near or around rotating
+equipment should be familiar with the location
+and operation of all stopping devices.
+ Be alert when in equipment areas, leaning
+against equipment, and where you put your
+hands.
+ Rotating equipment movements are often
+sudden and unpredictable.
+15
+Basics of  Rotating Industrial Equipm
+ent
+Rotating Equipment Safety
+ Maintain good housekeeping practices.
+– Clear work areas and pathways of debris and
+obstructions.
+– Properly clean up spilled lubricant and other
+slippery materials.
+ If equipment is down for service, lock out
+per plant requirements.
+– Always assume equipment can start at any
+time.
+16
+Basics of  Rotating Industrial Equipm
+ent
+Rotating Equipment Safety
+ Beware of and avoid getting too close to
+machinery where guards have been removed
+and report such conditions.
+ When climbing around or following conveyor
+paths, be aware of hazards such as sharp
+edges, protruding objects, and low clearances.
+17
+Basics of  Rotating Industrial Equipm
+ent
+Rotating Equipment Safety
+
+ When climbing around or following conveyor
+paths, be aware of hazards such as sharp
+edges, protruding objects, and low clearances.
+17
+Basics of  Rotating Industrial Equipm
+ent
+Rotating Equipment Safety
+ Do not operate equipment unless authorized to
+do so.
+ Stop-start stations should be clearly marked and
+located for easy accessibility, do not hesitate to
+use them when necessary.
+ Horseplay, scuffling, or other such actions
+around equipment is hazardous.
+18
+Basics of  Rotating Industrial Equipm
+ent
+Rotating Equipment Safety
+ Promptly report to the proper supervisor all
+damage or any irregularities in equipment
+operation.
+ In case of injury, take immediate action to obtain
+aid by competent personnel.
+19
+Basics of  Rotating Industrial Equipm
+ent
+Rotating Equipment Safety
+ If potentially dangerous conditions exist, report it
+to the proper supervisor immediately.
+ Do not work around equipment while under the
+influence of alcohol, drugs, or narcotics.
+ Avoid entanglement in rotating equipment by:
+– Removing loose items such as clothing and jewelry
+– Tying back long hair
+
+to the proper supervisor immediately.
+ Do not work around equipment while under the
+influence of alcohol, drugs, or narcotics.
+ Avoid entanglement in rotating equipment by:
+– Removing loose items such as clothing and jewelry
+– Tying back long hair
+ Leave repair functions to the properly trained
+### maintenance personnel to perform.
+20
+Basics of  Rotating Industrial Equipm
+ent
+Rotating Equipment Safety
+ All personnel performing maintenance or repairs
+on the equipment shall be qualified and trained in
+the fundamentals governing proper and safe
+### maintenance and repairs and shall follow the
+standards for proper lockout energy control
+procedures.
+21
+Basics of  Rotating Industrial Equipm
+ent
+Rotating Equipment Safety
+ Bypassing or jumping safety circuits will cause a
+hazardous condition and must never be done.
+ Do not perform maintenance on a system while it
+is running unless the nature of the maintenance
+absolutely requires so.
+ Use all recommended safety practices when
+using mechanical aids, hoists, cables, safety
+harnesses, and other equipment.
+22
+Basics of  Rotating Industrial Equipm
+ent
+Rotating Equipment Safety
+
+using mechanical aids, hoists, cables, safety
+harnesses, and other equipment.
+22
+Basics of  Rotating Industrial Equipm
+ent
+Rotating Equipment Safety
+ It may be necessary to bleed lines to any
+pneumatically or hydraulically powered
+component of the system to prevent  inadvertent
+operation to prevent injury inherent in stored
+energy.  Lockout any associated electrical
+interlocked equipment.
+ When power needs to remain on for testing
+electrical components or mechanical functions all
+operators or personnel involved with the
+equipment should be made aware of the testing
+and work being done.
+23
+Basics of  Rotating Industrial Equipm
+ent
+Rotating Equipment Safety
+ Be aware of abnormal noises as they often
+precede mechanical problems and safety
+hazards.  Investigate as soon as possible to
+protect people and machinery.
+ If abnormal noise is due to vibration, check for
+build-up of foreign material, misalignment, or
+failed internal rotating components.
+24
+Basics of  Rotating Industrial Equipm
+ent
+Rotating Equipment Safety
+ Before restarting a piece of equipment that has
+been shut down for any reason, insure that all
+
+24
+Basics of  Rotating Industrial Equipm
+ent
+Rotating Equipment Safety
+ Before restarting a piece of equipment that has
+been shut down for any reason, insure that all
+personnel are clear and that everyone at risk
+within the area is aware that the machine is
+about to be started.  The equipment should be
+checked to see that all obstructions have been
+removed which usually requires a walk of the
+equipment.
+ Do not restart the equipment unless all safety
+devices are working and all guards and fences
+are in place.
+25
+Basics of  Rotating Industrial Equipm
+ent
+Rotating Equipment Safety
+ Before restarting a piece of equipment that has
+been shut down for any reason, ensure that all
+personnel are clear and that everyone at risk
+within the area is aware that the machine is
+about to be started.
+26
+Basics of  Rotating Industrial Equipm
+ent
+Signs
+ The following slides are examples of types of
+signs that could be used to warn of hazardous
+areas, materials or conditions. Always refer to
+your plant safety literature for specific application
+of signs.
+27
+Basics of  Rotating Industrial Equipm
+ent
+Prohibition Signs
+
+areas, materials or conditions. Always refer to
+your plant safety literature for specific application
+of signs.
+27
+Basics of  Rotating Industrial Equipm
+ent
+Prohibition Signs
+ No Smoking and No Open Flame signs are for posting at
+entrances to “Open Flame Restricted Areas”
+28
+Basics of  Rotating Industrial Equipm
+ent
+Open Flame Restricted Areas
+ Warehouses with easily ignited and flammable
+materials
+ Explosion hazardous areas
+ Locations with toxic materials
+ Areas where different activities with flammable
+materials are carried out
+29
+Basics of  Rotating Industrial Equipm
+ent
+Mandatory Signs
+Attention, When Entering Facility,
+Please Advise Operator
+– Signs are for posting at the entrances to all
+production facilities
+30
+Basics of  Rotating Industrial Equipm
+ent
+Warning Signs
+ Warning signs mean
+– Caution
+– Risk of Danger
+– Hazard ahead
+ Warning signs are designated by white
+background with a black outline of an equilateral
+triangle, yellow inside the triangle, and black
+symbol in the triangle.
+31
+Basics of  Rotating Industrial Equipm
+ent
+### Safety Signs
+ First Aid signs are for
+posting at locations
+
+background with a black outline of an equilateral
+triangle, yellow inside the triangle, and black
+symbol in the triangle.
+31
+Basics of  Rotating Industrial Equipm
+ent
+### Safety Signs
+ First Aid signs are for
+posting at locations
+having a first aid kit.
+32
+Basics of  Rotating Industrial Equipm
+ent
+Fire Safety Signs
+ Fire Extinguisher signs are
+for posting at locations where
+fire extinguishers of A, B, C
+and D types are available.
+33
+Basics of  Rotating Industrial Equipm
+ent
+Traffic Signs
+ Speed Limit
+ It is prohibited to exceed the
+speed specified on the sign
+15
+34
+Basics of  Rotating Industrial Equipm
+ent
+Traffic Signs
+ Pedestrian Crossing
+35
+Basics of  Rotating Industrial Equipm
+ent
+Traffic Signs
+ Priority signs shall be posted to establish the
+passing sequence of road intersection, road
+crossing or narrow road sections.
+36
+Basics of  Rotating Industrial Equipm
+ent
+Fire Safety
+ Obey All Warning and Caution Signs
+– Explosive Hazard Area
+– No Open Flames
+ Report Fires and Call for Help
+
+crossing or narrow road sections.
+36
+Basics of  Rotating Industrial Equipm
+ent
+Fire Safety
+ Obey All Warning and Caution Signs
+– Explosive Hazard Area
+– No Open Flames
+ Report Fires and Call for Help
+ Report to Muster Area
+ Use Appropriate Precautions
+37
+Basics of  Rotating Industrial Equipm
+ent
+Electrical Lock Out
+ To protect personnel,  equipment that is to be
+worked on must be deenergized to prevent the
+accidental release of energy or the inadvertent
+operation of equipment.
+ Lockout is the method of placing a lock on an
+isolating device to ensure that a piece of
+equipment cannot be operated.
+38
+Basics of  Rotating Industrial Equipm
+ent
+LOCKOUT
+DISCONNECT SWITCH
+LOCKOUT IF WORKING
+ON CONTROL PANEL
+OR ON ELECTRICAL
+CONTROL CIRCUIT
+CONTROL PANEL START AND
+STOP SWITCHES, ADJUSTMENTS,
+CONTROLS, ETC
+INCOMING
+POWER
+CIRCUIT BREAKER AND
+MOTOR STARTER
+LOCKOUT BEFORE
+WORKING ON
+MOTOR OR
+EQUIPMENT
+SWITCH IN OFF
+POSITION WITH
+I.D. TAGS AND
+TONG AND
+
+MOTOR STARTER
+LOCKOUT BEFORE
+WORKING ON
+MOTOR OR
+EQUIPMENT
+SWITCH IN OFF
+POSITION WITH
+I.D. TAGS AND
+TONG AND
+LOCK SYSTEM
+WITH EMPLOYEE PADLOCKS
+39
+Basics of  Rotating Industrial Equipm
+ent
+LOCKOUT TERMS
+ LOCKOUT
+ LOCKOUT DEVICE
+ ENERGY SOURCE
+ ENERGY ISOLATING DEVICE
+ SHALL
+ SHOULD
+40
+Basics of  Rotating Industrial Equipm
+ent
+Definitions
+ Electric Power Source is the main control panel (i.e.,
+motor control center, circuit breaker, etc.).
+ Electrical equipment must be locked out at the power
+source, not at the start/stop switches.
+ Electrical disconnect is the physical removal of electrical
+leads at the power source (or removal of the fuses), so it
+is impossible for someone to start the equipment.
+41
+Basics of  Rotating Industrial Equipm
+ent
+Lock Definitions
+ Instrumentation/Electrical locks are single-use,
+disposable locks or locks keyed separately and
+individually assigned to electricians,
+### maintenance and instrumentation personnel and
+are used solely for the purpose of locking out
+
+Basics of  Rotating Industrial Equipm
+ent
+Lock Definitions
+ Instrumentation/Electrical locks are single-use,
+disposable locks or locks keyed separately and
+individually assigned to electricians,
+### maintenance and instrumentation personnel and
+are used solely for the purpose of locking out
+equipment that they will be working on.
+42
+Basics of  Rotating Industrial Equipm
+ent
+Tagout Definitions
+ Tagout is the installation of “Danger - Do Not
+Operate” tags on equipment controls to warn
+workers that the equipment must not be used, or
+that the position of a valve or isolating device
+should not be changed.
+43
+Basics of  Rotating Industrial Equipm
+ent
+Summary
+ Potential electrical hazards can be minimized
+when working with electrical equipment by the
+following.
+– Electrical Regulations
+– Electrical PPE
+– Safety Codes
+– Lock Out
+– Precautions
+44
+Basics of  Rotating Industrial Equipm
+ent
+Personal Protective Equipment
+Personal Protective Equipment must be
+worn as protection against hazards that
+cannot be eliminated by other means, or
+where no other preventive solution is found
+to be practical.
+45
+Basics of  Rotating Industrial Equipm
+ent
+Definitions
+ Personal Protective Equipment
+
+cannot be eliminated by other means, or
+where no other preventive solution is found
+to be practical.
+45
+Basics of  Rotating Industrial Equipm
+ent
+Definitions
+ Personal Protective Equipment
+ Impervious Clothing and Gloves
+ Safety Equipment
+46
+Basics of  Rotating Industrial Equipm
+ent
+Roles and Responsibilities
+ Comply with equipment manufacturer
+recommendations.
+ Visually inspect the PPE daily or before each
+use.
+ Replace torn or damaged PPE.
+ Properly clean and store equipment.
+ Contact supervisor with questions.
+47
+Basics of  Rotating Industrial Equipm
+ent
+General PPE Requirements
+ Make sure that PPE is appropriate to the work
+condition.
+ Using PPE that is not required may get in the
+way.
+– For example, wearing electrician gloves to calibrate a
+level indicator would be a hindrance.
+48
+Basics of  Rotating Industrial Equipm
+ent
+General PPE Requirements
+ The minimum PPE in plant areas include:
+– Hard Hat
+– Safety Glasses
+– Safety or Sturdy Shoes
+– Mini Filter in some areas
+49
+Basics of  Rotating Industrial Equipm
+
+General PPE Requirements
+ The minimum PPE in plant areas include:
+– Hard Hat
+– Safety Glasses
+– Safety or Sturdy Shoes
+– Mini Filter in some areas
+49
+Basics of  Rotating Industrial Equipm
+ent
+Head Protection
+ Hard hats protect the head from impact, and
+penetration by falling or flying objects and
+electric shock for insulated hard hats
+50
+Basics of  Rotating Industrial Equipm
+ent
+Eye and Face Protection
+ Eye and face protection is required when
+an employee is exposed to eye or face
+hazards.
+51
+Basics of  Rotating Industrial Equipm
+ent
+Face Shields
+Face shields must be worn to protect the
+face and neck.
+Face shields alone do not provide
+adequate eye protection.
+52
+Basics of  Rotating Industrial Equipm
+ent
+Eye and Face Protection
+ Goggles and face shields should be washed with
+warm soapy water, rinsed thoroughly, and hung
+to dry before they are stored.
+ A soft tissue or soft nonabrasive cloth should be
+used to clean the lenses.
+53
+Basics of  Rotating Industrial Equipm
+ent
+Hand Protection
+
+warm soapy water, rinsed thoroughly, and hung
+to dry before they are stored.
+ A soft tissue or soft nonabrasive cloth should be
+used to clean the lenses.
+53
+Basics of  Rotating Industrial Equipm
+ent
+Hand Protection
+ Gloves shall be worn when hands are exposed to
+hazardous substances, sharp objects, or
+temperature extremes (hot or cold).
+ Impervious gloves must be used when handling
+hydrocarbons and corrosive chemicals such as
+acids and caustics.
+ Miscellaneous gloves include special-use gloves.
+The following gloves must be individually
+assigned: Welding gloves, Fire fighters’ gloves,
+Electrician gloves
+54
+Basics of  Rotating Industrial Equipm
+ent
+Glove Inspection
+ Impervious gloves should be checked for
+pinholes leaks by blowing air into them. They
+should be replaced when they become cracked
+or develop holes.
+55
+Basics of  Rotating Industrial Equipm
+ent
+Body Protection
+ Appropriate body protection must be worn to
+keep acidic, corrosive, oily, dirty, or dusty
+materials off the body. The type of protection
+required depends upon the nature of the hazard.
+
+ent
+Body Protection
+ Appropriate body protection must be worn to
+keep acidic, corrosive, oily, dirty, or dusty
+materials off the body. The type of protection
+required depends upon the nature of the hazard.
+ Disposable coveralls and suits are designed to
+keep dust and dry material off the worker. They
+provide minimal protection against liquids and
+oily substances.
+56
+Basics of  Rotating Industrial Equipm
+ent
+Aprons
+ Aprons should be worn to keep dirt and material
+off work clothing when pouring liquids, dumping
+dry materials, or working with dirty equipment.
+57
+Basics of  Rotating Industrial Equipm
+ent
+Foot Protection
+ Employees shall wear safety steel toed footwear
+when they work in an area where there is danger
+of foot injury due to falling or rolling objects.
+ Areas and jobs, which require safety footwear,
+shall be determined by the Facility Owner.
+ Rubber boots should be worn when it is
+necessary to protect the feet and shoes from
+excessive water, oil, mud, muck, or corrosive
+material.
+58
+Basics of  Rotating Industrial Equipm
+ent
+Definitions
+ Air Line Respirator
+
+excessive water, oil, mud, muck, or corrosive
+material.
+58
+Basics of  Rotating Industrial Equipm
+ent
+Definitions
+ Air Line Respirator
+ Breathing Air Equipment
+ Cartridge Respirator
+ Face Piece-to-Face Seal
+ Hazard Assessment
+ Hazardous Atmosphere
+59
+Basics of  Rotating Industrial Equipm
+ent
+Definitions
+ IDLH Atmosphere
+ Qualitative Fit Test
+ Self Contained Breathing Apparatus (SCBA)
+ Single-Use Disposable Dust Respirator
+ Tolerance Test
+60
+Basics of  Rotating Industrial Equipm
+ent
+Summary
+ Review
+CLICK TO RETURN TO TOPICS
+61
+COMPRESSORS
+62
+Basics of  Rotating Industrial Equipm
+ent
+Main Topics
+ Introduction to compressors
+ Centrifugal
+ Reciprocating
+ Screw
+63
+Basics of  Rotating Industrial Equipm
+ent
+### Introduction
+ Compression is used in all aspects of gas
+processing such as:
+– Gas Lift
+– Gas Gathering
+– Helium Recovery
+– Condensate Recovery
+– Transmission
+– Distribution
+64
+
+### Introduction
+ Compression is used in all aspects of gas
+processing such as:
+– Gas Lift
+– Gas Gathering
+– Helium Recovery
+– Condensate Recovery
+– Transmission
+– Distribution
+64
+Basics of  Rotating Industrial Equipm
+ent
+Types
+ Reciprocating
+ Centrifugal
+ Sliding Vane
+ Rotary Screw
+65
+Basics of  Rotating Industrial Equipm
+ent
+Reciprocating Compressor
+Piston
+Cylinder
+Suction
+Valve
+Discharge
+Valve
+Piston Rod
+Cylinder
+Head
+66
+Basics of  Rotating Industrial Equipm
+ent
+Cylinder Operating Valves
+SUCTION VALVE
+DISCHARGE VALVE
+SUCTION
+DISCHARGE
+67
+Basics of  Rotating Industrial Equipm
+ent
+Stages
+The number of stages is governed by the following
+factors:
+– Allowable discharge temperature.
+– Rod loading.
+– Existence of a fixed side stream pressure level (where
+flow is added to or withdrawn from main flow of
+### compressor).
+– Allowable working pressure of available cylinders.
+68
+Basics of  Rotating Industrial Equipm
+ent
+Sliding Vane Compressor
+Sliding Vane
+Rotor
+Inlet Port
+Discharge
+Port
+69
+
+### compressor).
+– Allowable working pressure of available cylinders.
+68
+Basics of  Rotating Industrial Equipm
+ent
+Sliding Vane Compressor
+Sliding Vane
+Rotor
+Inlet Port
+Discharge
+Port
+69
+Basics of  Rotating Industrial Equipm
+ent
+Screw Compressors
+70
+Basics of  Rotating Industrial Equipm
+ent
+Centrifugal Compressor
+Fundamentals
+ Gas flow path
+ Stage
+ Process stage
+ Velocity Energy to Pressure
+71
+Basics of  Rotating Industrial Equipm
+ent
+Gas Gas Suction Discharge
+TorqueTorque
+Centrifugal Compressor
+72
+Basics of  Rotating Industrial Equipm
+ent
+Centrifugal Compressor Types
+ Axial, or horizontally
+split
+ Radial, or
+vertically split
+JOINT
+JOINT JOINT
+73
+Basics of  Rotating Industrial Equipm
+ent
+Centrifugal Compressor Stage
+Components
+74
+Basics of  Rotating Industrial Equipm
+ent
+Surge
+ Surge is caused by unstable flow within
+### compressor which results in flow reversal system
+pressure fluctuations.
+ Frequency of surge
+75
+Basics of  Rotating Industrial Equipm
+ent
+Causes/Effects of Surge
+
+Basics of  Rotating Industrial Equipm
+ent
+Surge
+ Surge is caused by unstable flow within
+### compressor which results in flow reversal system
+pressure fluctuations.
+ Frequency of surge
+75
+Basics of  Rotating Industrial Equipm
+ent
+Causes/Effects of Surge
+ Restricted suction or discharge such as a
+plugged strainer.
+ Process changes in pressures or gas
+composition.
+ Mis-positioned rotor or internal plugging of flow
+passages.
+ Inadvertent speed change such as from a
+governor failure.
+76
+Basics of  Rotating Industrial Equipm
+ent
+Dry Gas Seals
+Rotating
+Face
+Face Rotation
+Stationary
+Face
+77
+Basics of  Rotating Industrial Equipm
+ent
+Summary
+ Review Question and Answer Session
+CLICK TO RETURN TO TOPICS
+78
+PUMPS
+79
+Basics of  Rotating Industrial Equipm
+ent
+Course Objectives
+ At the completion of this course students will be
+able to:
+– Identify types of pumps
+– Identify major components for each type of pump
+– Define Characteristics of each type of pump
+– Describe applications in which each type of pump is
+used
+80
+Basics of  Rotating Industrial Equipm
+
+ At the completion of this course students will be
+able to:
+– Identify types of pumps
+– Identify major components for each type of pump
+– Define Characteristics of each type of pump
+– Describe applications in which each type of pump is
+used
+80
+Basics of  Rotating Industrial Equipm
+ent
+Major Topics
+ Pumps – General
+ Positive Displacement Pumps
+ Centrifugal Pumps
+81
+Basics of  Rotating Industrial Equipm
+ent
+Pumps
+ Types
+– Positive Displacement - Overview
+ Screw Pumps
+ Gear Pumps
+ Piston Pumps
+ Plunger Pumps
+– Centrifugal - Overview
+82
+Basics of  Rotating Industrial Equipm
+ent
+Positive Displacement Pumps
+ Screw Pumps
+ Gear pumps
+ Piston pumps
+ Rotating gears
+ Centrifugal pumps
+83
+Basics of  Rotating Industrial Equipm
+ent
+Screw Pumps
+ Screw pumps are the most common type of
+rotary pump found in the petroleum industry.
+ The three sub-types of screw pumps:
+– three-screw
+– two- screw
+
+Basics of  Rotating Industrial Equipm
+ent
+Screw Pumps
+ Screw pumps are the most common type of
+rotary pump found in the petroleum industry.
+ The three sub-types of screw pumps:
+– three-screw
+– two- screw
+– single-screw
+84
+Basics of  Rotating Industrial Equipm
+ent
+Screw Pumps
+INLET
+INLET
+OUTLET
+OUTLET
+85
+Basics of  Rotating Industrial Equipm
+ent
+Gear Pumps
+Generally less expensive than screw pumps,
+and used when an inexpensive short-life
+### pump can be tolerated. Also used in
+intermittent services.
+Types:
+– External Gear
+– Internal Gear
+– Lobe
+86
+Basics of  Rotating Industrial Equipm
+ent
+External Gear Pump
+Counter-rotating gears
+87
+Basics of  Rotating Industrial Equipm
+ent
+External Gear Pumps
+88
+Basics of  Rotating Industrial Equipm
+ent
+Internal Gear Pump
+89
+Basics of  Rotating Industrial Equipm
+ent
+Piston Pumps
+ Piston Pump Diagram
+ Major Component Review
+ Operation and Application
+ Maintenance and Troubleshooting
+90
+Basics of  Rotating Industrial Equipm
+ent
+Piston Pump
+91
+
+ent
+Piston Pumps
+ Piston Pump Diagram
+ Major Component Review
+ Operation and Application
+ Maintenance and Troubleshooting
+90
+Basics of  Rotating Industrial Equipm
+ent
+Piston Pump
+91
+Basics of  Rotating Industrial Equipm
+ent
+Major Components
+SUCTION
+COMPRESSION
+DISCHARGE
+Inlet
+OutletCam Plate
+Drive Shaft
+Inlet
+Check Ball Outlet
+Check Ball
+Pumping
+Chamber
+Spring
+Piston
+92
+Basics of  Rotating Industrial Equipm
+ent
+Operation and Application
+SUCTION
+COMPRESSION
+DISCHARGE
+93
+Basics of  Rotating Industrial Equipm
+ent
+Plunger Pumps
+ Plunger Pump Diagram
+ Major Component Review
+ Operation and Application
+94
+Basics of  Rotating Industrial Equipm
+ent
+Packed Plunger Pump
+95
+Basics of  Rotating Industrial Equipm
+ent
+Diaphragm Plunger Pump
+96
+Basics of  Rotating Industrial Equipm
+ent
+Example Plunger Pump Diagram
+CAM
+LUBE OUTLET
+ROCKER
+ARM
+ASSEMBLY
+FRONT OF
+RESERVOIR
+PRIMER/REGULATING
+ASSEMBLY
+LUBE INLETOUTLET CHECK
+VALVE
+INLET CHECK
+VALVE
+97
+
+LUBE OUTLET
+ROCKER
+ARM
+ASSEMBLY
+FRONT OF
+RESERVOIR
+PRIMER/REGULATING
+ASSEMBLY
+LUBE INLETOUTLET CHECK
+VALVE
+INLET CHECK
+VALVE
+97
+Basics of  Rotating Industrial Equipm
+ent
+Centrifugal Pumps
+ Centrifugal Pump Diagram
+ Major Component Review
+ Operation and Application
+ Pump Laws
+ Centrifugal Pumps
+ Maintenance and Troubleshooting
+98
+Basics of  Rotating Industrial Equipm
+ent
+Fundamentals
+Impeller Vanes
+Volute
+Eye
+Tongue
+99
+Basics of  Rotating Industrial Equipm
+ent
+Centrifugal Pump Diagram
+100
+Basics of  Rotating Industrial Equipm
+ent
+Sleeve/Coupling/Bearings
+ Shaft Sleeve
+ Coupling
+– Elastomeric couplings (having properties that
+resemble rubber)
+– Non-elastomeric
+ Bearings
+101
+Basics of  Rotating Industrial Equipm
+ent
+Impeller Types
+102
+Basics of  Rotating Industrial Equipm
+ent
+Suction and Discharge
+103
+Basics of  Rotating Industrial Equipm
+ent
+Swing Type Check Valve
+104
+
+ent
+Impeller Types
+102
+Basics of  Rotating Industrial Equipm
+ent
+Suction and Discharge
+103
+Basics of  Rotating Industrial Equipm
+ent
+Swing Type Check Valve
+104
+Basics of  Rotating Industrial Equipm
+ent
+Valves
+ Single disc swing valves
+ Double disc or wafer check valves
+ Lift-check valves
+ Silent or center guide valves
+ Ball-check valves
+ Cone check valves
+105
+Basics of  Rotating Industrial Equipm
+ent
+Centrifugal Pump Application
+ High Flow-rate requirements
+ Low Differential Pressure (Lift) requirements
+ Low Fluid Viscosity
+106
+Basics of  Rotating Industrial Equipm
+ent
+Centrifugal Pump Operation
+ Conversion of rotational driver energy into flow
+energy
+ Work on the fluid is performed by impeller and
+Volute (higher flow, lower pressure) or Diffuser
+(lower flow, higher pressure)
+107
+Basics of  Rotating Industrial Equipm
+ent
+Centrifugal Flow
+ Centrifugal pumps generate flow by using one of
+three actions:
+ Radial flow
+ Mixed flow
+ Axial flow
+
+107
+Basics of  Rotating Industrial Equipm
+ent
+Centrifugal Flow
+ Centrifugal pumps generate flow by using one of
+three actions:
+ Radial flow
+ Mixed flow
+ Axial flow
+108
+Basics of  Rotating Industrial Equipm
+ent
+Centrifugal Pump Operation
+ Flow Path
+ Precautions
+– Prevent Cavitation
+– Avoid Low Flow Conditions
+109
+Basics of  Rotating Industrial Equipm
+ent
+Centrifugal Pump Operation
+ Cavitation
+– Formation of and subsequent collapse of bubbles
+within a pumped fluid.
+– Formation occurs in regions of low pressure and
+collapse occurs in regions of high pressure.
+ Cavitation can result in:
+– Loss of capacity
+– Lowered Discharge Pressure
+– Lower Efficiency
+– Noise, Vibration, and Damage to Pump components.
+110
+Basics of  Rotating Industrial Equipm
+ent
+Cavitation
+ Cavitation is Caused by:
+– Vaporization
+– Air ingestion
+– Internal recirculation
+– Flow turbulence
+– Vane Passing Syndrome
+111
+Basics of  Rotating Industrial Equipm
+ent
+Vaporization
+ A fluid vaporizes when its pressure gets too low,
+
+– Air ingestion
+– Internal recirculation
+– Flow turbulence
+– Vane Passing Syndrome
+111
+Basics of  Rotating Industrial Equipm
+ent
+Vaporization
+ A fluid vaporizes when its pressure gets too low,
+or its temperature too high. All centrifugal pumps
+have a required head (pressure) at the suction
+side of the pump to prevent this vaporization.
+112
+Basics of  Rotating Industrial Equipm
+ent
+Air Ingestion
+ Air gets into a system in several ways that
+include :
+– Through the stuffing box
+– Leaking flanges
+– Suction inlet pipe is out of fluid
+113
+Basics of  Rotating Industrial Equipm
+ent
+Turbulence
+ We would prefer to have liquid flowing through
+the piping at a constant velocity.
+ Corrosion or obstructions can change the
+velocity of the liquid and any time you change
+the velocity of a liquid you change its pressure.
+114
+Basics of  Rotating Industrial Equipm
+ent
+Vane Passing Syndrome
+ You will notice damage to the tip of the impeller
+caused by its passing too close to the pump
+cutwater.
+115
+Basics of  Rotating Industrial Equipm
+ent
+
+ent
+Vane Passing Syndrome
+ You will notice damage to the tip of the impeller
+caused by its passing too close to the pump
+cutwater.
+115
+Basics of  Rotating Industrial Equipm
+ent
+### Pump Laws
+ Velocity is directly proportional to Pump Speed
+– V flow α N
+ Discharge Head is directly proportional to the
+square of Pump Speed
+– H pump α N2
+ Pump Power consumption is directly proportional
+to the cube of Pump Speed
+– P pump α N3
+116
+Basics of  Rotating Industrial Equipm
+ent
+### Pump Laws
+ Example:
+– N = 1450 RPM
+– V = 400 m3 / hr
+– H = 100 Barg
+– P = 45 kW
+117
+Basics of  Rotating Industrial Equipm
+ent
+Summary
+ Review Question and Answer Session
+CLICK TO RETURN TO TOPICS
+118
+TURBINES
+119
+Basics of  Rotating Industrial Equipm
+ent
+Objectives
+ Define Brayton Cycle.
+ Turbine Theory of Operation
+ Define major components used in a Gas Turbine
+system.
+ Identify Gas Turbine auxiliary systems.
+
+Basics of  Rotating Industrial Equipm
+ent
+Objectives
+ Define Brayton Cycle.
+ Turbine Theory of Operation
+ Define major components used in a Gas Turbine
+system.
+ Identify Gas Turbine auxiliary systems.
+ Define Gas Turbine Maintenance requirements.
+120
+Basics of  Rotating Industrial Equipm
+ent
+Gas Turbine
+ Function / Purpose
+ Process Flow
+121
+Basics of  Rotating Industrial Equipm
+ent
+Gas Turbine
+Basic Configuration
+ Air Compressor
+ Combustor
+ Turbine
+122
+Basics of  Rotating Industrial Equipm
+ent
+Gas Turbine
+ A gas turbine extracts energy from a flow
+of hot gas produced by combustion of gas
+or fuel oil in a stream of compressed air. It
+has an upstream air compressor (radial or
+axial flow) mechanically coupled to a
+downstream turbine and a combustion
+chamber in between. "Gas turbine" may
+also refer to just the turbine element
+123
+Basics of  Rotating Industrial Equipm
+ent
+Brayton Cycle
+ Gas turbines are described thermodynamically by the
+
+downstream turbine and a combustion
+chamber in between. "Gas turbine" may
+also refer to just the turbine element
+123
+Basics of  Rotating Industrial Equipm
+ent
+Brayton Cycle
+ Gas turbines are described thermodynamically by the
+Brayton cycle, in which air is compressed isentropically,
+combustion occurs at constant pressure, and expansion
+over the turbine occurs isentropically back to the
+starting pressure.
+124
+Basics of  Rotating Industrial Equipm
+ent
+Steps of the Brayton Cycle
+125
+Basics of  Rotating Industrial Equipm
+ent
+Performance parameters
+ Speed of rotation
+ Oil Temperature
+ Oil Pressure
+ Fuel gas pressure
+ Rotor axial displacement
+ Bearing vibrations
+ Exhaust temperature
+126
+Basics of  Rotating Industrial Equipm
+ent
+Main Components
+ Turbine Casing
+ Compressor Section
+ Combustion Chamber
+ Bearings
+ Turbine Rotors
+ Auxiliary Systems
+127
+Basics of  Rotating Industrial Equipm
+ent
+Turbine Casing
+128
+Basics of  Rotating Industrial Equipm
+ent
+### Compressor Section
+129
+
+127
+Basics of  Rotating Industrial Equipm
+ent
+Turbine Casing
+128
+Basics of  Rotating Industrial Equipm
+ent
+### Compressor Section
+129
+Basics of  Rotating Industrial Equipm
+ent
+Combustion Chamber
+130
+Basics of  Rotating Industrial Equipm
+ent
+Split Shaft Design
+Axial
+### Compressor
+Combustion
+chamber
+H.P.
+Shaft
+Assy
+Fuel
+Air inlet
+Exhaust
+Gas
+L.P.
+Shaft
+Assy
+Load
+131
+Basics of  Rotating Industrial Equipm
+ent
+Combustor
+ Can-annular Type Combustor Example
+132
+Basics of  Rotating Industrial Equipm
+ent
+Bearings
+133
+Basics of  Rotating Industrial Equipm
+ent
+Turbine Rotors
+ Rotors/Buckets
+ Split shaft design
+ Variable Nozzle
+134
+Basics of  Rotating Industrial Equipm
+ent
+Rotors/Buckets
+135
+Basics of  Rotating Industrial Equipm
+ent
+Variable Nozzle
+136
+Basics of  Rotating Industrial Equipm
+ent
+Shutdown Sequence
+ Normal Shutdown
+ Emergency Stop
+137
+Basics of  Rotating Industrial Equipm
+ent
+Normal Shutdown
+ Manually initiated, Automatically sequenced
+
+ent
+Variable Nozzle
+136
+Basics of  Rotating Industrial Equipm
+ent
+Shutdown Sequence
+ Normal Shutdown
+ Emergency Stop
+137
+Basics of  Rotating Industrial Equipm
+ent
+Normal Shutdown
+ Manually initiated, Automatically sequenced
+ Turbine is run at idle to reduce thermal stresses
+ Turbine may operate on starting system to further
+reduce stresses
+ Unit will be jacked at 1 to 2 rpm for several cool-
+down hours
+138
+Basics of  Rotating Industrial Equipm
+ent
+Emergency Stop
+ Can be manually or automatically initiated
+ Automatically sequenced
+ Does NOT include a cool-down delay
+ When trip is caused by a fire sensor all lube
+oil flow stops
+139
+Basics of  Rotating Industrial Equipm
+ent
+Filters
+ Lube oil filter
+ Fuel oil filters
+ Hydraulic supply filters
+ Air filters
+140
+Basics of  Rotating Industrial Equipm
+ent
+Shutdown Maintenance
+ Major Inspection
+ Borescope Inspections
+ Combustion Inspection
+ Hot Gas Path Inspection
+141
+Basics of  Rotating Industrial Equipm
+ent
+
+ent
+Shutdown Maintenance
+ Major Inspection
+ Borescope Inspections
+ Combustion Inspection
+ Hot Gas Path Inspection
+141
+Basics of  Rotating Industrial Equipm
+ent
+Major Inspection
+ Turbine Disassembly
+ Initial Alignment Checks
+ Component Inspections
+ Wear component replacement
+ Reassembly
+ Final Alignment Checks
+142
+Basics of  Rotating Industrial Equipm
+ent
+Borescope Inspections
+ Overview and Purpose
+143
+Basics of  Rotating Industrial Equipm
+ent
+Summary
+ Review Question and Answer Session
+CLICK TO RETURN TO TOPICS
+144
+FANS AND LOUVERS
+145
+Basics of  Rotating Industrial Equipm
+ent
+Course Objectives
+ Define the steps necessary to maintain and
+replace fan bearings
+ Discuss characteristics of Belts
+ State the steps necessary to remove, replace
+and adjust drive belts
+146
+Basics of  Rotating Industrial Equipm
+ent
+Course Objectives
+ Discuss methods of determining cause based
+upon effect
+147
+Basics of  Rotating Industrial Equipm
+ent
+Fan Safety
+ Rotating Equipment
+ Elevation
+ High Temperature
+
+Course Objectives
+ Discuss methods of determining cause based
+upon effect
+147
+Basics of  Rotating Industrial Equipm
+ent
+Fan Safety
+ Rotating Equipment
+ Elevation
+ High Temperature
+ H2S
+148
+Basics of  Rotating Industrial Equipm
+ent
+Rotor and Hub Assembly Example
+LEADING
+EDGE
+TRAILING
+EDGE
+149
+Basics of  Rotating Industrial Equipm
+ent
+Rotors
+150
+Basics of  Rotating Industrial Equipm
+ent
+Fan Checks
+ Adjust the pitch of each
+blade to the vendor’s
+specified angle
+ Verify blades rotate
+freely
+ Verify proper motor
+rotation
+151
+Basics of  Rotating Industrial Equipm
+ent
+Fin Fan Tip Clearance
+ Blade Tip Clearance
+– Adjust each blade
+assembly to the
+vendor’s specified tip
+clearance
+152
+Basics of  Rotating Industrial Equipm
+ent
+Driver
+ Variable Speed Drive (VSD) Electric Motor
+ Totally Enclosed Fan Cooled (TEFC)
+ Explosion Proof
+153
+Basics of  Rotating Industrial Equipm
+ent
+Belts
+154
+Basics of  Rotating Industrial Equipm
+ent
+HTD Belts
+155
+
+ Totally Enclosed Fan Cooled (TEFC)
+ Explosion Proof
+153
+Basics of  Rotating Industrial Equipm
+ent
+Belts
+154
+Basics of  Rotating Industrial Equipm
+ent
+HTD Belts
+155
+Basics of  Rotating Industrial Equipm
+ent
+HTD Belts
+156
+Basics of  Rotating Industrial Equipm
+ent
+Synchronous Belt
+14 mm Pitch10.7 mm
+157
+Basics of  Rotating Industrial Equipm
+ent
+V-belts
+V-Belt
+Matrix
+Wear Resistant CoverTensile Members
+158
+Basics of  Rotating Industrial Equipm
+ent
+Powerband V-belts
+Powerband V-Belt
+159
+Basics of  Rotating Industrial Equipm
+ent
+Cog Belts
+Cog Belt
+(Side View)
+160
+Basics of  Rotating Industrial Equipm
+ent
+Belt Alignment
+ Example mis-alignment of belts
+161
+Basics of  Rotating Industrial Equipm
+ent
+Belt Alignment
+ Four Point Touch Alignment
+Cord tied to
+shaft
+Cord touching sheave at points
+indicated by arrows
+162
+Basics of  Rotating Industrial Equipm
+ent
+Belt Tensioning
+Too tight
+Too loose
+Slight bow
+163
+
+shaft
+Cord touching sheave at points
+indicated by arrows
+162
+Basics of  Rotating Industrial Equipm
+ent
+Belt Tensioning
+Too tight
+Too loose
+Slight bow
+163
+Basics of  Rotating Industrial Equipm
+ent
+Changing Belts
+ Never lever or pry belts onto sheaves or
+sprockets
+164
+Basics of  Rotating Industrial Equipm
+ent
+### Bearing
+165
+Basics of  Rotating Industrial Equipm
+ent
+Louvres
+166
+Basics of  Rotating Industrial Equipm
+ent
+Louvres
+167
+Basics of  Rotating Industrial Equipm
+ent
+Cylinder Actuator
+Supply Signal
+6 7 5 4 2 103 11 12 9
+8Out 1 Out 2
+Exh. Exh.
+168
+Basics of  Rotating Industrial Equipm
+ent
+### Vibration Switch
+169
+Basics of  Rotating Industrial Equipm
+ent
+Lubrication System
+170
+Basics of  Rotating Industrial Equipm
+ent
+Lubrication System
+171
+Basics of  Rotating Industrial Equipm
+ent
+### Maintenance Requirements
+ General Inspections
+ Blade Angle Adjustment
+ Blade Tip Clearance Adjustment
+ Bearing Lubrication
+
+Basics of  Rotating Industrial Equipm
+ent
+Lubrication System
+171
+Basics of  Rotating Industrial Equipm
+ent
+### Maintenance Requirements
+ General Inspections
+ Blade Angle Adjustment
+ Blade Tip Clearance Adjustment
+ Bearing Lubrication
+172
+Basics of  Rotating Industrial Equipm
+ent
+### Maintenance Requirements
+ Vibration Monitoring
+ Fan Belt Tensioning
+ Fan Belt Alignment
+173
+Basics of  Rotating Industrial Equipm
+ent
+General Inspections
+ 24000 Hours - General Inspection and Cleaning
+ 90 Days – Vibration Monitoring
+ 90 Days – Belt Maintenance
+174
+Basics of  Rotating Industrial Equipm
+ent
+Blade Angle Adjustment
+ Position the inclinometer on the least curved
+part of the blade
+ Rotate the blade on its own axis until the
+desired pitch angle value is obtained
+ Repeat operations 1 and 2 for each blade
+175
+Basics of  Rotating Industrial Equipm
+ent
+Blade Angle Adjustment
+176
+Basics of  Rotating Industrial Equipm
+ent
+Blade Angle Adjustment
+177
+Basics of  Rotating Industrial Equipm
+ent
+
+ent
+Blade Angle Adjustment
+176
+Basics of  Rotating Industrial Equipm
+ent
+Blade Angle Adjustment
+177
+Basics of  Rotating Industrial Equipm
+ent
+Blade Tip Clearance Adjustment
+ Unscrew all the positioning bolts
+ Pull each blade out so that the “head” seats
+firmly against the internal rim of the hub
+assembly
+178
+Basics of  Rotating Industrial Equipm
+ent
+### Vibration Monitoring
+179
+Basics of  Rotating Industrial Equipm
+ent
+### Vibration Switch Adjustment
+ Caution: Isolate power elsewhere before
+removal of covers
+ To set switch, rotate set level screw on top of
+switch fully clockwise
+ Reset switch and check observation window is
+clear.
+180
+Basics of  Rotating Industrial Equipm
+ent
+### Vibration Switch Adjustment
+ With machine running normally, rotate set level
+screw anti-clockwise until switch just trips
+ Reset carefully; readjust until switch no longer
+trips
+ Adjust clockwise rotation of the set level screw
+181
+Basics of  Rotating Industrial Equipm
+ent
+### Vibration Switch Adjustment
+ Fill Set Level Screw cavity with Silicone grease
+and
+ Replace cap
+182
+
+ Adjust clockwise rotation of the set level screw
+181
+Basics of  Rotating Industrial Equipm
+ent
+### Vibration Switch Adjustment
+ Fill Set Level Screw cavity with Silicone grease
+and
+ Replace cap
+182
+Basics of  Rotating Industrial Equipm
+ent
+Fan Belt Tensioning
+ Review Belt drive data sheets
+ Belt tensioning is performed by adjusting the
+motor
+ Motor is adjusted until the proper tension is
+achieved
+ Deflection should fall between 9 to 15mm
+183
+Basics of  Rotating Industrial Equipm
+ent
+Fan Belt Alignment
+ Axial alignment is performed by moving the
+motor
+ Motor is moved by adjusting 2 nut bolts until
+proper axial alignment is achieved
+ Motor is adjusted until the motor drive pulley and
+the fan pulley are visually parallel
+184
+Basics of  Rotating Industrial Equipm
+ent
+Troubleshooting
+ Excessive Vibration
+ Improper Louvre Operation
+185
+Basics of  Rotating Industrial Equipm
+ent
+Fan Vibration
+ Imbalanced Blade
+ Excessive Blade Pitch Variance
+ Misalignment
+ Worn Components
+
+185
+Basics of  Rotating Industrial Equipm
+ent
+Fan Vibration
+ Imbalanced Blade
+ Excessive Blade Pitch Variance
+ Misalignment
+ Worn Components
+ Resonance
+ Structural Integrity
+186
+Basics of  Rotating Industrial Equipm
+ent
+Improper Louvre Operation
+ Cylinder does not move with rising or falling input
+signal
+– Cause: Zero adjusting screw is not set properly
+– Solution: Loosen lock-nut and reset the zero
+adjustment
+187
+Basics of  Rotating Industrial Equipm
+ent
+Louvre and Linkage Adjustment
+ Cylinder stroke is not in relation to input
+signal
+– Cause: Adjustment of Span Adjuster is not
+correct
+– Solution: Remove the set screw of the outer tube
+and give ideal adjustment while maintaining input
+signal at 0.6 kg/cm.
+188
+Basics of  Rotating Industrial Equipm
+ent
+Summary
+ Review
+ Question and Answer Session
+CLICK TO RETURN TO TOPICS
+189
+LUBRICATION REQUIREMENTS
+190
+Basics of  Rotating Industrial Equipm
+ent
+Objectives
+ Define types of lubrication
+ Distinguish the difference between grease and oil
+
+CLICK TO RETURN TO TOPICS
+189
+LUBRICATION REQUIREMENTS
+190
+Basics of  Rotating Industrial Equipm
+ent
+Objectives
+ Define types of lubrication
+ Distinguish the difference between grease and oil
+ Discuss the hazards of mixing different
+lubrications
+ Describe the proper handling of lubrication
+ Describe replacement of Lube Oil filters
+191
+Basics of  Rotating Industrial Equipm
+ent
+Main Topics
+ Define types of lubricants
+– Oil
+– Grease
+– ISO and SAE specifications
+ Distinguish the difference between grease and oil
+ Discuss the hazards of mixing different
+lubrications
+192
+Basics of  Rotating Industrial Equipm
+ent
+Main Topics
+ Describe the proper handling of lubricants
+– Contamination
+– Storage
+– Methods of application
+– Disposal
+ Describe replacement of Lube Oil filters.
+– Filter redundancy
+– Flow characteristics,
+DP = Differential Pressure
+– Replace with disposable cartridge
+193
+Basics of  Rotating Industrial Equipm
+ent
+### Introduction to Lubrication
+ Why use lubricants?
+– Reduce Friction
+– Increase Cooling
+194
+Basics of  Rotating Industrial Equipm
+ent
+
+Basics of  Rotating Industrial Equipm
+ent
+### Introduction to Lubrication
+ Why use lubricants?
+– Reduce Friction
+– Increase Cooling
+194
+Basics of  Rotating Industrial Equipm
+ent
+Lubrication Functions
+ Form a lubricant film between components.
+ Reduce the effect of friction
+ Protect against corrosion
+ Seal against contaminants
+ Cool moving parts
+195
+Basics of  Rotating Industrial Equipm
+ent
+Lubrication
+196
+Basics of  Rotating Industrial Equipm
+ent
+Friction
+ Grease and oil lubricate the moving parts of a
+machine
+ Grease and oil reduce friction, heat, and wear of
+moving machine parts
+197
+Basics of  Rotating Industrial Equipm
+ent
+Oil = Low Friction and Heat
+198
+Basics of  Rotating Industrial Equipm
+ent
+No Oil = High Friction and Heat
+199
+Basics of  Rotating Industrial Equipm
+ent
+Lubrication Prevents Failure of:
+ Bearings
+ Gears
+ Couplings
+ Pumps
+200
+Basics of  Rotating Industrial Equipm
+ent
+
+ent
+Lubrication Prevents Failure of:
+ Bearings
+ Gears
+ Couplings
+ Pumps
+200
+Basics of  Rotating Industrial Equipm
+ent
+Lubrication Prevents Failure of:
+ Engine components
+ Hydraulic pumps
+ Gas and Steam Turbines
+ Any moving parts
+201
+Basics of  Rotating Industrial Equipm
+ent
+Lubricants prevent failure by:
+ Inhibiting rust and corrosion
+ Absorbing contaminates
+ Displacing moisture
+ Flushing away particles
+202
+Basics of  Rotating Industrial Equipm
+ent
+Can lubricants cause damage?
+ YES!!
+ THE WRONG LUBRICANT CAN CAUSE
+MACHINE FAILURE!
+203
+Basics of  Rotating Industrial Equipm
+ent
+Lubricant Selection
+ Operating temperature
+ Load
+ Speed
+ Environment
+ Grease Lubrication
+ Oil Lubrication
+204
+Basics of  Rotating Industrial Equipm
+ent
+Grease
+ Grease is a heavy, non-liquid lubricant
+
+ Environment
+ Grease Lubrication
+ Oil Lubrication
+204
+Basics of  Rotating Industrial Equipm
+ent
+Grease
+ Grease is a heavy, non-liquid lubricant
+ Grease can have a mineral, lithium or soap
+base
+ Grease is pasty, thick and sticky
+ Some greases remain a paste from below 0°C
+to above 200°C.
+ The flashpoint of most greases is above 200°C
+ Grease does not become a mist under
+pressure
+205
+Basics of  Rotating Industrial Equipm
+ent
+Oil
+ Oil can be a heavy or thin liquid lubricant
+ Oil can have a natural base (mineral)
+ Oil can have a synthetic base (engineered)
+ Oil remains liquid from below 0°C to above
+200°C.
+ The flashpoint of many oils is above 200°C
+ The flashpoint is very low for pressurized oil
+mist.  Why?
+206
+Basics of  Rotating Industrial Equipm
+ent
+How are grease and oil different?
+
+ The flashpoint is very low for pressurized oil
+mist.  Why?
+206
+Basics of  Rotating Industrial Equipm
+ent
+How are grease and oil different?
+ How oil is used:
+– Oil used in closed systems with pumps.  An oil
+sump on a diesel engine pumps liquid oil.
+– Oil is used in gas and steam turbines
+– Oil is used in most machines that need liquid
+lubricant
+207
+Basics of  Rotating Industrial Equipm
+ent
+How grease is used?
+– In areas where a continuous supply of oil cannot be
+retained, (open bearings, gears chains, hinged
+joints)
+– Factors to  be considered when selecting greases
+are:
+Type. Depends on operating temperatures,
+water resistance, oxidation stability etc
+Characteristics. Viscosity and consistency
+208
+Basics of  Rotating Industrial Equipm
+ent
+Grease or Oil?
+ What determines whether a machine needs
+grease or oil?
+ The manufacturer specifies what lubricant is
+used in their machines,  based on the properties
+of the lubricant.  One important property is
+VISCOSITY.
+209
+
+ What determines whether a machine needs
+grease or oil?
+ The manufacturer specifies what lubricant is
+used in their machines,  based on the properties
+of the lubricant.  One important property is
+VISCOSITY.
+209
+Basics of  Rotating Industrial Equipm
+ent
+Viscosity
+ Viscosity is a liquid’s resistance to flow
+ Viscosity affects the thickness of a liquid
+ High viscosity liquids are hard to pour
+ Low viscosity liquids are easy to pour
+210
+Basics of  Rotating Industrial Equipm
+ent
+Viscosity Rules of Thumb
+  the lower the temperature, the lighter the oil
+ the higher the temperature, the heavier the oil
+ the heavier the load, the heavier the oil
+ the lighter the load, the lighter the oil
+ the faster the speed, the lighter the oil
+ the slower the speed, the heavier the oil
+211
+Basics of  Rotating Industrial Equipm
+ent
+Viscosity
+Temperature affects viscosity.
+ Heat decreases viscosity
+ Cold increases viscosity
+
+Basics of  Rotating Industrial Equipm
+ent
+Viscosity
+Temperature affects viscosity.
+ Heat decreases viscosity
+ Cold increases viscosity
+ Viscosity is measured in centistokes (cSt)
+212
+Basics of  Rotating Industrial Equipm
+ent
+Consistency
+ Fundamental principle
+ Thickener
+ Operating temperature
+ Mechanical conditions
+ Low temperature effect
+ High temperature effect
+213
+Basics of  Rotating Industrial Equipm
+ent
+Grease Lubrication
+ Thickening agent
+ Properties
+ Where used
+214
+Basics of  Rotating Industrial Equipm
+ent
+Advantages of Grease Lubrication
+ Reduction of dripping and splattering
+ Hard to get points
+ Reduction of frequency of lubrication
+ Helps seal out contaminants and corrosives.
+ Ability to cling to part
+ Used to suspend other solids
+215
+Basics of  Rotating Industrial Equipm
+ent
+Grease Selection Factors
+– Load condition
+– Speed range
+– Operating conditions
+– Temperature conditions
+– Sealing efficiency
+– External environment
+216
+Basics of  Rotating Industrial Equipm
+ent
+Oil Types
+
+– Speed range
+– Operating conditions
+– Temperature conditions
+– Sealing efficiency
+– External environment
+216
+Basics of  Rotating Industrial Equipm
+ent
+Oil Types
+ Two types of lubrication oil are:
+ Mineral-based
+ Synthetic
+217
+Basics of  Rotating Industrial Equipm
+ent
+Mineral-Based Oil
+ Mineral-based oil is refined from crude oil
+hydrocarbons
+ Mineral-based oil has 2 types of base:
+– Naphtha Base
+ A naphtha base is solvent-like
+– Paraffin Base
+ A paraffin base is waxy
+218
+Basics of  Rotating Industrial Equipm
+ent
+Mineral-Based Oil
+ Naphtha Base
+– Lower viscosity index (40-80 cs)
+– Lower pour point
+– Less resistant to oxidation and changes in
+viscosity index
+– Good performance at higher temperatures
+219
+Basics of  Rotating Industrial Equipm
+ent
+Mineral-Based Oil
+ Paraffinic Base
+– Higher viscosity index (>95cs)
+– Higher pour point
+– Very resistant to changes in viscosity index and
+oxidation
+– Thicken at low temperatures
+220
+Basics of  Rotating Industrial Equipm
+ent
+
+ Paraffinic Base
+– Higher viscosity index (>95cs)
+– Higher pour point
+– Very resistant to changes in viscosity index and
+oxidation
+– Thicken at low temperatures
+220
+Basics of  Rotating Industrial Equipm
+ent
+Mineral-Based Oil
+ Mineral-based oils are cheaper to buy than
+synthetics.
+ Mineral-based oils can contain traces of
+sulfur and nitrogen.  These impurities can
+cause oil to form sludge.
+221
+Basics of  Rotating Industrial Equipm
+ent
+Synthetic Oil
+ Synthetic oil is NOT refined from crude oil
+hydrocarbons
+ Synthetic oil is made without a mineral base
+ Synthetic oil is made by careful control of a
+chemical reaction that yields a “pure”
+substance
+222
+Basics of  Rotating Industrial Equipm
+ent
+Synthetic Oil
+ Synthetic oils are chemically engineered to be
+pure.  They do not contain the traces of sulfur
+or nitrogen present in mineral-based oils.
+ Synthetic oils are expensive
+223
+Basics of  Rotating Industrial Equipm
+ent
+Synthetic Oil
+ Synthetic oil is less flammable than mineral-
+
+or nitrogen present in mineral-based oils.
+ Synthetic oils are expensive
+223
+Basics of  Rotating Industrial Equipm
+ent
+Synthetic Oil
+ Synthetic oil is less flammable than mineral-
+based oil at low pressure. (Pressure causes
+most oils to become more flammable)
+ Synthetic oils are generally more expensive
+than mineral based oils
+224
+Basics of  Rotating Industrial Equipm
+ent
+Lubricant Specifications
+ ISO = International Standards Organization
+ SAE = Society of Automotive Engineers
+225
+Basics of  Rotating Industrial Equipm
+ent
+ISO Lubricant Specifications
+ ISO Grade lubricants are for industrial use.
+ISO specifications exist for lubricants in
+extreme industrial environments.
+226
+Basics of  Rotating Industrial Equipm
+ent
+ISO Lubricants
+ISO GRADE 32 46 68 100
+Viscosity
+40°C
+100°C
+30.4
+5.2
+43.7
+6.6
+64.6
+8.5
+30.4
+5.2
+Flash Point
+°C(°F)
+222(432) 224(435) 245(473) 262(504)
+Pour Point
+°C(°F)
+
+64.6
+8.5
+30.4
+5.2
+Flash Point
+°C(°F)
+222(432) 224(435) 245(473) 262(504)
+Pour Point
+°C(°F)
+-36(-33) -36(-33) -33(-27) -30(-22)
+227
+Basics of  Rotating Industrial Equipm
+ent
+Using Different Lubricants
+ Why do we use different lubricants?
+ What happens if oils are mixed?
+228
+Basics of  Rotating Industrial Equipm
+ent
+Mixing Lubricants
+ Consequences of mixing different lubricants
+are:
+ Change of viscosity
+ Stripping of machine’s internal coatings,
+damage to seals
+ Reduced flash point, risk of fire
+229
+Basics of  Rotating Industrial Equipm
+ent
+Mixing Lubricants
+ Loss of corrosion protection
+ Poor water separation
+ Foaming
+ Thermal instability
+230
+Basics of  Rotating Industrial Equipm
+ent
+Booster Compressor Lubes
+Equipment Specified Lubricant Chevron
+Equivalent
+Consumption Rate Service
+Interval
+Turbine and  Compressor
+
+Basics of  Rotating Industrial Equipm
+ent
+Booster Compressor Lubes
+Equipment Specified Lubricant Chevron
+Equivalent
+Consumption Rate Service
+Interval
+Turbine and  Compressor
+Lube Oil System ISO VG 32 GST ISO 32 5 Liters per day Based on oil
+analysis
+Electric Motor (Starter) Grease SRI Grease NLGI 2 negligible 1750 Hours
+Electric Motor (Ventilation) Grease SRI Grease NLGI 2 negligible 11500 Hours
+Electric Motor (Aux Lube Oil
+### Pump) Grease SRI Grease NLGI 2 negligible 3000 Hours
+Electric Motor (Aux Lube Oil
+Cooler) Grease SRI Grease NLGI 2 negligible 1000 Hours
+231
+Basics of  Rotating Industrial Equipm
+ent
+Water Pump Lubes
+Equipment Specified Lubricant Chevron
+Equivalent
+Consumption Rate
+l/year
+Service Interval
+Utility Water Pump Texaco Ursatex
+SAE 20/20W
+Chevron Delo 400
+SAE 20
+.5L Yearly
+Utility Water Pump
+Motor
+Esso Unirex N3 Chevron SRI
+Grease 2
+50g 2 years
+Demineralised  Water
+
+.5L Yearly
+Utility Water Pump
+Motor
+Esso Unirex N3 Chevron SRI
+Grease 2
+50g 2 years
+Demineralised  Water
+### Pump Motor
+Texaco Ursatex
+SAE 20/20W
+Chevron Delo 400
+SAE 20
+100L Yearly
+Fire Water Jockey
+### Pump
+Texaco Ursatex
+SAE 20/20W
+Chevron Delo 400
+SAE 20
+.5L Yearly
+Fire Water Jockey
+### Pump Motor
+Esso Unirex N3 Chevron SRI
+Grease 2
+50g 2 Years
+232
+Basics of  Rotating Industrial Equipm
+ent
+Water Pump Lubes
+Equipment Specified Lubricant Chevron
+Equivalent
+Consumption
+Rate g/year
+Service
+Interval
+BS12A Fire Water
+### Pump
+Texaco
+Multi-purpose
+AP EP2
+Chevron Dura-Lith
+EP #2
+200 Yearly
+Fire Water Pump
+Motor (SIEMENS)
+Shell Alvania G3 Chevron SRI Grease
+2
+100 3 Years
+Fire Water Pump
+Motor (Caterpillar)
+Texaco Ursa Super
+LA 15W-40
+Chevron
+Delo 400 15W-40
+100 3 Years
+233
+
+Shell Alvania G3 Chevron SRI Grease
+2
+100 3 Years
+Fire Water Pump
+Motor (Caterpillar)
+Texaco Ursa Super
+LA 15W-40
+Chevron
+Delo 400 15W-40
+100 3 Years
+233
+Basics of  Rotating Industrial Equipm
+ent
+Nitrogen Generation Lubes
+Equipment Specified Lubricant Chevron Equivalent Service
+Interval
+Screw Compressor 72-
+F 9269/89
+Total Dacnis VS 32 Chevron Hydraulic Oil
+AW ISO 32
+4000 hours
+73-MGC-9251 A/B
+Bearings
+Total MultiElf Chevron SRI Grease 2 4500 hours
+73-MEA-9202A/B-01/02
+Bearings
+Filled for life of bearings
+234
+Basics of  Rotating Industrial Equipm
+ent
+Propane Compressor Lubes
+Equipment Specified Lubricant Chevron Equivalent Service Interval
+GC 740 compressor and
+drive bearings, oil pumps
+ISO VG 46 Chevron GST ISO 46 Monitor and
+service if out of
+spec
+MG 741 A/B oil pump drive
+and electric motor
+Shell
+Alvania R3
+Chevron SRI Grease 2 40000 hours or
+4.5 years
+
+service if out of
+spec
+MG 741 A/B oil pump drive
+and electric motor
+Shell
+Alvania R3
+Chevron SRI Grease 2 40000 hours or
+4.5 years
+MEA-709 A1/2/3 oil cooler
+drive
+Shell
+Alvania R3
+Chevron SRI Grease 2 20000 hours or
+2.25 years
+235
+Basics of  Rotating Industrial Equipm
+ent
+Propane Compressor Lubes
+Equipment Specified Lubricant Chevron Equivalent Service Interval
+GC 701 gas compressor
+and drive bearings, oil
+pumps
+ISO VG 46 Chevron GST ISO 46 Monitor and
+service if out of
+spec
+MG 711 A/B oil pump drive
+and electric motor
+Shell
+Alvania R3
+Chevron SRI Grease
+2
+40000 hours or
+4.5 years
+MEA-708 A1/2/3 oil cooler
+drive
+Shell
+Alvania R3
+Chevron SRI Grease
+2
+20000 hours or
+2.25 years
+236
+Basics of  Rotating Industrial Equipm
+ent
+Fundamentals of Lubrication
+ Equipment lubrication
+– Bearings
+– Gears
+– Couplings
+– Pumps
+– Engine components
+– Hydraulic pumps
+237
+
+ent
+Fundamentals of Lubrication
+ Equipment lubrication
+– Bearings
+– Gears
+– Couplings
+– Pumps
+– Engine components
+– Hydraulic pumps
+237
+Basics of  Rotating Industrial Equipm
+ent
+Lubricant Delivery Methods
+ Force Feed Lubricant
+ Oil Mist
+ Constant Circulation
+ Oil Slinger
+ Zerk Fittings
+ Surface Application (brush or spray)
+238
+Basics of  Rotating Industrial Equipm
+ent
+Force Feed Lubrication
+ A force feed lubricant system is like an
+automated version of the hand held oil can.
+An automatic plunger applies pressure to
+deliver a few drops at predetermined time
+intervals.
+239
+Basics of  Rotating Industrial Equipm
+ent
+Oil Mist Lubrication
+ This method keeps rotating machinery operating
+effectively for extended time periods.
+240
+Basics of  Rotating Industrial Equipm
+ent
+Oil Mist Lubrication
+ Centralized lubrication system that
+generates, conveys and automatically
+delivers lubricant.
+ The generator utilizes the energy of
+compressed air to atomize oil into micron
+sized particles
+
+ent
+Oil Mist Lubrication
+ Centralized lubrication system that
+generates, conveys and automatically
+delivers lubricant.
+ The generator utilizes the energy of
+compressed air to atomize oil into micron
+sized particles
+ The particles can be conveyed considerable
+distances.
+241
+Basics of  Rotating Industrial Equipm
+ent
+Benefits - Oil Mist Lubrication
+– Bearing failures reduced
+– Lubricant consumption reduce by 40%
+– Equipment runs cooler – Saves energy
+– Contaminant’s are excluded
+– More efficient lubrication
+242
+Basics of  Rotating Industrial Equipm
+ent
+Constant Circulation
+ A Constant Circulation system re-circulates oil in
+a closed system like your heart circulates blood
+in your body.
+243
+Basics of  Rotating Industrial Equipm
+ent
+Check
+Windup
+Gear Boxes
+(Quarterly)
+Oil type
+ISO360
+(Mobil Gear
+636)
+Grease Variable Pitch Pulley
+(Quarterly) 1 to 2 Pumps of
+(Mobil XHP222)
+Grease
+support
+wheel
+bearings
+(Quarterly)
+1 to 2
+pumps with
+(Mobil
+XHP222)
+Hand
+grease
+square slide
+shaft and
+worm shaft
+(Monthly)
+
+(Quarterly)
+1 to 2
+pumps with
+(Mobil
+XHP222)
+Hand
+grease
+square slide
+shaft and
+worm shaft
+(Monthly)
+1 to 2
+pumps per
+shaft of
+(Mobil
+XHP222)
+Hand Oil Roller Chain,
+[behind guard] (Quarterly)
+(LPS) (24810)
+Lubrication Check Example
+244
+Basics of  Rotating Industrial Equipm
+ent
+Oil Slinger
+ Small disc that loosely rotates
+on a shaft
+ Lubricates moving parts by
+agitating or splashing oil in the
+crankcase.
+ Allows a thin film of oil to
+remain on the piston rod.
+ The Oil Slinger is installed on
+the piston rod between the
+packing case and the wiper
+case
+245
+Basics of  Rotating Industrial Equipm
+ent
+Zerk Fittings
+ Zerk Fittings are grease fill points that have
+an internal check valve that prevents
+contaminates from entering the fitting.
+Always clean the Zerk fitting before applying
+grease.
+246
+Basics of  Rotating Industrial Equipm
+ent
+Surface Application
+ Sometimes lubricants are painted on with a
+
+an internal check valve that prevents
+contaminates from entering the fitting.
+Always clean the Zerk fitting before applying
+grease.
+246
+Basics of  Rotating Industrial Equipm
+ent
+Surface Application
+ Sometimes lubricants are painted on with a
+brush, sprayed from an aerosol can, or wiped
+onto the part.
+247
+Basics of  Rotating Industrial Equipm
+ent
+### Pump System
+ A Pump System automates lubrication.
+Grease or oil is fed from a central pump
+through lines and block valves to the
+necessary lube points.
+248
+Basics of  Rotating Industrial Equipm
+ent
+Lubricant Storage Factors
+ Temperature
+ Light
+ Water
+ Particulate Contamination
+ Atmospheric Contamination
+ Oil Separation
+249
+Basics of  Rotating Industrial Equipm
+ent
+Storage - Temperature
+ High heat (greater than 45°C) and extreme cold (less
+than 20°C) affect lubricant stability.
+ Heat increases oxidation that forms deposits
+ Cold can increase sediment and wax formation
+ Ideal storage temperature range is 0°C to 25°C
+250
+
+Storage - Temperature
+ High heat (greater than 45°C) and extreme cold (less
+than 20°C) affect lubricant stability.
+ Heat increases oxidation that forms deposits
+ Cold can increase sediment and wax formation
+ Ideal storage temperature range is 0°C to 25°C
+250
+Basics of  Rotating Industrial Equipm
+ent
+Storage - Light and Water
+ Light can change the color and appearance of
+lubricants.  Store lubricants in their original
+container.  Keep out of light.
+ Water reacts with additives in the lubricant and
+forms insoluble matter.  Water can cause
+microbial growth.  Keep water out.
+251
+Basics of  Rotating Industrial Equipm
+ent
+Storage - Contamination
+ Particles in the air and dust can settle into open
+containers.  Oxygen and carbon dioxide can change the
+consistency and viscosity of lubricants.
+ Always seal lubricant containers tightly.
+ Always store and use a clean container.
+252
+Basics of  Rotating Industrial Equipm
+ent
+Storage - Oil Separation
+ Oil will naturally separate out of most greases
+over time.
+
+252
+Basics of  Rotating Industrial Equipm
+ent
+Storage - Oil Separation
+ Oil will naturally separate out of most greases
+over time.
+ Temperature greater than 45°C increase oil
+separation in grease.
+253
+Basics of  Rotating Industrial Equipm
+ent
+Storage – Shelf Life
+Lubricants have a finite
+shelf life.
+The estimated shelf life
+for UNOPENED
+containers in ideal
+conditions is:
+Product Shelf Life In
+Years
+Base Oils 5+
+Lube Oils
+(Mineral or Synthetic)
+5
+Greases
+(Mineral or Synthetic)
+5
+Rust Preventatives 2
+Open Gear Lubes 2
+254
+Basics of  Rotating Industrial Equipm
+ent
+Summary
+ Review
+ Question and Answer Session
+CLICK TO RETURN TO TOPICS
+255
+BEARINGS
+256
+Basics of  Rotating Industrial Equipm
+ent
+### Introduction
+Purpose of a bearing
+Friction bearing
+Antifriction bearing
+257
+Basics of  Rotating Industrial Equipm
+ent
+Bearings
+BALL
+SEPARATOR/CAGE
+ROLLER
+Ball Bearing Roller Bearing
+Sleeve Bearing
+258
+Basics of  Rotating Industrial Equipm
+ent
+Sleeves and Journals
+
+ent
+Bearings
+BALL
+SEPARATOR/CAGE
+ROLLER
+Ball Bearing Roller Bearing
+Sleeve Bearing
+258
+Basics of  Rotating Industrial Equipm
+ent
+Sleeves and Journals
+Friction bearings
+Journal and Sleeve
+Lubrication
+Rotational Speed
+Highest friction point.
+259
+Basics of  Rotating Industrial Equipm
+ent
+Balls and Rollers
+Rolling contact bearings
+Starting friction
+Cages/Seperators
+Lubrication
+260
+Basics of  Rotating Industrial Equipm
+ent
+Anti-Friction Bearing Types
+Tapered Rollers
+Needle Rollers
+Ball Rollers
+Spherical Rollers
+Cylindrical Rollers
+261
+Basics of  Rotating Industrial Equipm
+ent
+Thrust Bearings
+Ball Thrust Bearing
+Roller Thrust Bearing
+Spherical Roller
+Tapered Roller
+262
+Basics of  Rotating Industrial Equipm
+ent
+### Bearing Loads
+Thrust Load
+Radial Load
+263
+Basics of  Rotating Industrial Equipm
+ent
+Example of Loads
+Thrust Load
+Radial Load
+Tapered
+Roller
+Bearings
+264
+Basics of  Rotating Industrial Equipm
+ent
+### Bearing Contact
+
+Basics of  Rotating Industrial Equipm
+ent
+Example of Loads
+Thrust Load
+Radial Load
+Tapered
+Roller
+Bearings
+264
+Basics of  Rotating Industrial Equipm
+ent
+### Bearing Contact
+Roller
+Ball
+265
+Basics of  Rotating Industrial Equipm
+ent
+Tapered Roller Bearings
+266
+Basics of  Rotating Industrial Equipm
+ent
+How Do Bearings Fail
+• Passage of electric current through the bearing.
+• Misalignment.
+• Improper mounting.
+• Incorrect shaft and housing fits.
+• Defective bearing seating on shafts and in
+housings.
+• Ineffective sealing.
+• Vibration while bearing is not rotating.
+• Inadequate lubrication.
+267
+Basics of  Rotating Industrial Equipm
+ent
+Types of Failure
+ Spalling.
+ Fretting.
+268
+Basics of  Rotating Industrial Equipm
+ent
+Types of Failure
+ Brinelling
+269
+Basics of  Rotating Industrial Equipm
+ent
+Types of Failure
+ Vibration
+ Electric Currents.
+Pitting from large electrical current.
+270
+Basics of  Rotating Industrial Equipm
+ent
+Types of Failure - Misalignment
+271
+
+ent
+Types of Failure
+ Vibration
+ Electric Currents.
+Pitting from large electrical current.
+270
+Basics of  Rotating Industrial Equipm
+ent
+Types of Failure - Misalignment
+271
+Basics of  Rotating Industrial Equipm
+ent
+### Bearing Lubrication
+ All bearings need lubrication to prevent metal-
+to-metal contact between components.
+ Lubrication Practices
+ Too Much Lubrication
+ Inadequate Lubrication
+ Smearing
+272
+Basics of  Rotating Industrial Equipm
+ent
+Summary
+ Review
+ Question and Answer Session
+CLICK TO RETURN TO TOPICS
+273
+SEALS
+274
+Basics of  Rotating Industrial Equipm
+ent
+Major Topics
+ Seals
+ Seal Types
+ Dry Gas Seals
+ Labyrinth Seals
+ Firewater Pump Packing Seals
+ Support Systems – Seal Flushing
+ Troubleshooting
+275
+Basics of  Rotating Industrial Equipm
+ent
+Purpose
+ Shaft Seal Purpose is to prevent leakage
+into or out of a pump or compressor along
+its shaft and other moving parts.
+
+ Support Systems – Seal Flushing
+ Troubleshooting
+275
+Basics of  Rotating Industrial Equipm
+ent
+Purpose
+ Shaft Seal Purpose is to prevent leakage
+into or out of a pump or compressor along
+its shaft and other moving parts.
+ Shaft seals includes two common types.
+– Pack stuffing boxes
+– Simple mechanical seals
+276
+Basics of  Rotating Industrial Equipm
+ent
+Packed Stuffing Box
+ A soft pliable material or packing is placed in a
+box and compressed into rings encircling the
+drive shaft is used to prevent leakage.
+Packing
+chamber or
+box
+Packing
+rings
+Gland follower
+or stuffing
+gland
+277
+Basics of  Rotating Industrial Equipm
+ent
+Gland Packing
+ Used in Firewater pumps
+ Fluid not toxic or flammable
+ Leak rate not critical
+278
+Basics of  Rotating Industrial Equipm
+ent
+Mechanical Seals
+ Fluid is Toxic or Flammable
+ Leak rate is critical
+279
+Basics of  Rotating Industrial Equipm
+ent
+Gland Packing
+ Description
+ Application
+ Advantages
+ Disadvantages
+
+ Leak rate is critical
+279
+Basics of  Rotating Industrial Equipm
+ent
+Gland Packing
+ Description
+ Application
+ Advantages
+ Disadvantages
+ Operation
+280
+Basics of  Rotating Industrial Equipm
+ent
+Gland Packing
+Gland
+Follower
+Packing Lantern Ring
+Shaft
+Seal Flush
+Adjustment
+Nut
+### Pump Casing
+281
+Basics of  Rotating Industrial Equipm
+ent
+Gland Packing
+282
+Basics of  Rotating Industrial Equipm
+ent
+Mechanical Seals
+ Pusher Seals
+ Bellows Seals
+– Metal
+– Elastomer
+ Cartridge Seals
+283
+Basics of  Rotating Industrial Equipm
+ent
+Advantages
+ Advantages
+– Extremely low leakage rates can be attained with
+proper selection and implementation
+– Reduced Preventative Maintenance
+requirements with proper selection and
+implementation
+284
+Basics of  Rotating Industrial Equipm
+ent
+Pusher Seal
+285
+Basics of  Rotating Industrial Equipm
+ent
+Pusher Seal
+286
+Basics of  Rotating Industrial Equipm
+ent
+Bellows Seals
+287
+Basics of  Rotating Industrial Equipm
+ent
+Bellows Seal (Elastomeric)
+288
+
+Basics of  Rotating Industrial Equipm
+ent
+Pusher Seal
+286
+Basics of  Rotating Industrial Equipm
+ent
+Bellows Seals
+287
+Basics of  Rotating Industrial Equipm
+ent
+Bellows Seal (Elastomeric)
+288
+Basics of  Rotating Industrial Equipm
+ent
+Bellows Seal (Elastomeric)
+289
+Basics of  Rotating Industrial Equipm
+ent
+Bellows Seal (Metallic)
+290
+Basics of  Rotating Industrial Equipm
+ent
+Bellows Seal (Metallic)
+291
+Basics of  Rotating Industrial Equipm
+ent
+Cartridge Seals
+Impeller
+End
+D
+EF
+C
+A
+B
+292
+Basics of  Rotating Industrial Equipm
+ent
+Cartridge Seals
+293
+Basics of  Rotating Industrial Equipm
+ent
+General Terminology
+ Rotating Seal
+ Stationary Seal
+ Balanced Seal
+ Unbalanced Seal
+294
+Basics of  Rotating Industrial Equipm
+ent
+Stationary Seal
+C. Rotating Seal Member
+D. Stationary Seal Member
+Stationary Seal Design
+Impeller
+End
+Rotating
+C D
+End Plate
+295
+Basics of  Rotating Industrial Equipm
+ent
+Unbalanced
+U nbalanced
+P ressure
+
+Stationary Seal Design
+Impeller
+End
+Rotating
+C D
+End Plate
+295
+Basics of  Rotating Industrial Equipm
+ent
+Unbalanced
+U nbalanced
+P ressure
+A tm osphere
+296
+Basics of  Rotating Industrial Equipm
+ent
+Balanced
+B alanced
+S houlder
+A tm osphere
+P ressure
+B alanced
+297
+Basics of  Rotating Industrial Equipm
+ent
+Dry Gas Seals
+ Description
+ Location
+ Maintenance
+298
+Basics of  Rotating Industrial Equipm
+ent
+Dry Gas Seal
+299
+Basics of  Rotating Industrial Equipm
+ent
+Description
+300
+Basics of  Rotating Industrial Equipm
+ent
+Gas Seal Description
+301
+Basics of  Rotating Industrial Equipm
+ent
+Labyrinth Seals
+ Description
+ Location
+ Maintenance
+302
+Basics of  Rotating Industrial Equipm
+ent
+Description
+Impeller
+Internal
+Labyrinth Seals
+Shaft
+303
+Basics of  Rotating Industrial Equipm
+ent
+Firewater Pump Diagram
+Gland packing
+Lantern ring
+Seal flush
+304
+Basics of  Rotating Industrial Equipm
+ent
+Packing Construction
+ Lattyflon 2790AL
+– PTFE Impregnanted
+
+303
+Basics of  Rotating Industrial Equipm
+ent
+Firewater Pump Diagram
+Gland packing
+Lantern ring
+Seal flush
+304
+Basics of  Rotating Industrial Equipm
+ent
+Packing Construction
+ Lattyflon 2790AL
+– PTFE Impregnanted
+– Polyacrylic Yarns
+– Silicone Lubricant
+305
+Basics of  Rotating Industrial Equipm
+ent
+Packing Replacement
+306
+Basics of  Rotating Industrial Equipm
+ent
+Packing Replacement
+307
+Basics of  Rotating Industrial Equipm
+ent
+Packing Replacement
+Packing
+Dummy shaft
+308
+Basics of  Rotating Industrial Equipm
+ent
+Packing Replacement
+45°
+309
+Basics of  Rotating Industrial Equipm
+ent
+Mechanical Seal Service
+ Flowserve Single Pusher Cartridge Seal – Type CSCPX
+310
+Basics of  Rotating Industrial Equipm
+ent
+Support Systems - Seal Flush
+ Description
+ Maintenance
+311
+Basics of  Rotating Industrial Equipm
+ent
+Flushing
+ A small amount of fluid that is introduced into the
+seal chamber close to the sealing faces
+ Improves the fluid conditions near the faces
+
+Support Systems - Seal Flush
+ Description
+ Maintenance
+311
+Basics of  Rotating Industrial Equipm
+ent
+Flushing
+ A small amount of fluid that is introduced into the
+seal chamber close to the sealing faces
+ Improves the fluid conditions near the faces
+ Suppress vapor formation at or near the faces by
+heat removal and pressurization
+312
+Basics of  Rotating Industrial Equipm
+ent
+Seal Flush Piping
+ LPG, toxic services, or T> 450°F:
+– Orifice should be provided at the discharge or
+suction nozzle connection.
+– Flush and quench lines should be Type 316
+stainless steel tubing
+313
+Basics of  Rotating Industrial Equipm
+ent
+Flush Plans
+ Plan 11
+Seal end
+view
+inlet
+orifice
+314
+Basics of  Rotating Industrial Equipm
+ent
+Flush Plans
+ Plan 21
+inlet
+Seal end
+view
+orifice cooler
+Coolant
+in
+Coolant
+out
+Temperature
+sensor
+315
+Basics of  Rotating Industrial Equipm
+ent
+Flush Plans
+Plan 31
+Seal end
+view
+inlet
+Cyclone
+separator
+316
+Basics of  Rotating Industrial Equipm
+ent
+
+ent
+Flush Plans
+Plan 31
+Seal end
+view
+inlet
+Cyclone
+separator
+316
+Basics of  Rotating Industrial Equipm
+ent
+Cyclone Separator
+A.
+Discharge
+in
+B. To mechanical seal
+C. Return to pump suction
+317
+Basics of  Rotating Industrial Equipm
+ent
+Quenching
+Quench
+Flush
+Drain
+Stationary
+face
+Gland gasket
+groove
+Fixed throttle
+bushingImpeller end
+318
+Basics of  Rotating Industrial Equipm
+ent
+Water Quenching
+– When some liquids evaporate, they leave an abrasive
+crystal deposit behind (caustic, for example)
+– Crystals forming on the atmospheric side of the
+secondary seal stop the secondary and rotating members
+from moving forward
+– This condition is commonly called seal hang-up
+– The seal faces are also damaged by abrasives and
+crystals centrifuged between them
+– These problems can be avoided by quenching the seal
+with water
+319
+Basics of  Rotating Industrial Equipm
+ent
+Other Support Systems
+ Cooling
+ Pressurization
+320
+Basics of  Rotating Industrial Equipm
+ent
+Pressurization
+– Cooling is always preferable to pressurization
+to suppress vaporization at the seal faces, but
+
+Basics of  Rotating Industrial Equipm
+ent
+Other Support Systems
+ Cooling
+ Pressurization
+320
+Basics of  Rotating Industrial Equipm
+ent
+Pressurization
+– Cooling is always preferable to pressurization
+to suppress vaporization at the seal faces, but
+cooling is not always feasible
+– Often the pressure must be raised in the seal
+chamber to create the necessary margin
+between vapor pressure (at seal chamber
+temperature) and seal chamber pressure
+321
+Basics of  Rotating Industrial Equipm
+ent
+Overview of Seal Failures
+ Loss of Face Lubrication
+ Bellows cracking
+ Corrosion
+322
+Basics of  Rotating Industrial Equipm
+ent
+Overview of Seal Failures
+ Corrosion fretting (wear) of the sleeve under the
+secondary seal
+ Coke or crystal build up on the atmosphere side
+of the seal under the faces
+323
+Basics of  Rotating Industrial Equipm
+ent
+Causes of Seal Failures
+ Review Operating Data
+ Review Maintenance History
+324
+Basics of  Rotating Industrial Equipm
+ent
+Causes of Seal Failures
+ Inspect Mechanical Condition
+325
+
+ Review Operating Data
+ Review Maintenance History
+324
+Basics of  Rotating Industrial Equipm
+ent
+Causes of Seal Failures
+ Inspect Mechanical Condition
+325
+Basics of  Rotating Industrial Equipm
+ent
+Causes of Seal Failures
+ Inspect Mechanical Seal
+326
+Basics of  Rotating Industrial Equipm
+ent
+Seal Chamber
+ Causes for a reduction in seal
+chamber pressure
+ Causes for a temperature increase
+at the seal faces
+327
+Basics of  Rotating Industrial Equipm
+ent
+Summary
+ Review
+ Question and Answer Session
+CLICK TO RETURN TO TOPICS
+328
+ALIGNMENT
+329
+Basics of  Rotating Industrial Equipm
+ent
+Major Topics
+ Alignment Overview
+ Methods of Alignment
+ Use of the Rotalign® Pro System
+ Alignment of Simple Driver/Load Systems
+ Soft Foot
+ Alignment of Equipment Trains
+ Sheave Alignment
+ Alignment Troubleshooting
+ Thermal Growth
+330
+Basics of  Rotating Industrial Equipm
+ent
+Alignment Overview
+ Reasons for Proper Alignment
+– Time
+– Cost
+– Effort
+331
+
+ Thermal Growth
+330
+Basics of  Rotating Industrial Equipm
+ent
+Alignment Overview
+ Reasons for Proper Alignment
+– Time
+– Cost
+– Effort
+331
+Basics of  Rotating Industrial Equipm
+ent
+Alignment Terminology
+ Offset Side View
+Motor PumpVertical
+Motor Pump
+Top View
+Horizontal
+332
+Basics of  Rotating Industrial Equipm
+ent
+Alignment Terminology
+ Angularity
+Motor Pump
+Top View
+Horizontal
+Side View
+Motor PumpVertical
+333
+Basics of  Rotating Industrial Equipm
+ent
+Methods of Alignment
+ Straight Edge
+ Dial Indicator
+ Laser Alignment
+334
+Basics of  Rotating Industrial Equipm
+ent
+Dial Indicator
+ Rim Alignment Side View
+Motor PumpVertical
+Motor Pump
+Top View
+Horizontal
+335
+Basics of  Rotating Industrial Equipm
+ent
+Dial Indicator
+ Face Alignment
+Motor Pump
+Top View
+Horizontal
+Side View
+Motor PumpVertical
+336
+Basics of  Rotating Industrial Equipm
+ent
+Dial Indicator
+ Bar Sag
+337
+Basics of  Rotating Industrial Equipm
+ent
+Dial Indicator
+  Caution: If the Coupling faces appear Caution: If the Coupling faces appear
+
+Side View
+Motor PumpVertical
+336
+Basics of  Rotating Industrial Equipm
+ent
+Dial Indicator
+ Bar Sag
+337
+Basics of  Rotating Industrial Equipm
+ent
+Dial Indicator
+  Caution: If the Coupling faces appear Caution: If the Coupling faces appear
+as below, it will be necessary to replaceas below, it will be necessary to replace
+338
+Basics of  Rotating Industrial Equipm
+ent
+Laser Alignment
+339
+Basics of  Rotating Industrial Equipm
+ent
+Soft Foot
+ Any condition where tightening or loosening the
+bolts of a single foot distorts the machine frame.
+ Must be corrected before proper final alignment
+can be achieved.
+340
+Basics of  Rotating Industrial Equipm
+ent
+Internal Misalignment
+341
+Basics of  Rotating Industrial Equipm
+ent
+Soft Foot
+ Causes
+– Bent legs/feet
+– Deformed shims
+– Dirt or debris
+– Strain from attached components
+– Machine frame distortion
+342
+Basics of  Rotating Industrial Equipm
+ent
+Soft Foot
+ Effects
+– Vibration
+– Strain and Deformation
+– Bearing Wear/Distortion
+– Premature Equipment Failure
+343
+
+Basics of  Rotating Industrial Equipm
+ent
+Soft Foot
+ Effects
+– Vibration
+– Strain and Deformation
+– Bearing Wear/Distortion
+– Premature Equipment Failure
+343
+Basics of  Rotating Industrial Equipm
+ent
+Soft Foot - Types
+ Parallel Air Gap
+344
+Basics of  Rotating Industrial Equipm
+ent
+Soft Foot - Types
+ Bent
+345
+Basics of  Rotating Industrial Equipm
+ent
+Soft Foot - Types
+ Squishy
+346
+Basics of  Rotating Industrial Equipm
+ent
+Soft Foot - Types
+ Induced
+Strain
+Induced
+Soft Foot
+347
+Basics of  Rotating Industrial Equipm
+ent
+Soft Foot Detection
+ Dial Indicator
+Soft Foot
+Parallel Angular
+348
+Basics of  Rotating Industrial Equipm
+ent
+Soft Foot Detection
+ Feeler Gauges
+349
+Basics of  Rotating Industrial Equipm
+ent
+Soft Foot Detection
+Typical Soft Foot
+Readings
+0 25
+0 25
+6 25
+5 25
+0 15
+12 0
+25 25
+10 8
+350
+Basics of  Rotating Industrial Equipm
+ent
+Soft Foot
+ Soft Foot Correction
+Soft Foot
+Parallel Angular
+351
+
+5 25
+0 15
+12 0
+25 25
+10 8
+350
+Basics of  Rotating Industrial Equipm
+ent
+Soft Foot
+ Soft Foot Correction
+Soft Foot
+Parallel Angular
+351
+Basics of  Rotating Industrial Equipm
+ent
+Step Shimming
+352
+Basics of  Rotating Industrial Equipm
+ent
+Sheave Alignment
+353
+Basics of  Rotating Industrial Equipm
+ent
+Alignment Troubleshooting
+ Shaft Deflection
+– Cause:
+ Weight of Coupling
+ Shaft Run out
+– Test:
+ Use a dial indicator to measure deflection during 180 degrees
+of rotation
+ Caution:
+– Do Not forget about Bar Sag when performing this test
+– It is better to use two indicators, reverse alignment
+354
+Basics of  Rotating Industrial Equipm
+ent
+Alignment Troubleshooting
+ Solution:
+– Replace the coupling with another type of equal Speed
+(RPM) and Power (HP) rating that is of a lighter weight
+– Remove the coupling and hubs and align machines
+using just the shafts
+355
+Basics of  Rotating Industrial Equipm
+ent
+Alignment Troubleshooting
+ Solution:
+– Replace the machine shaft if necessary
+
+(RPM) and Power (HP) rating that is of a lighter weight
+– Remove the coupling and hubs and align machines
+using just the shafts
+355
+Basics of  Rotating Industrial Equipm
+ent
+Alignment Troubleshooting
+ Solution:
+– Replace the machine shaft if necessary
+– Consult the equipment manufacturer
+356
+Basics of  Rotating Industrial Equipm
+ent
+Alignment Troubleshooting
+ Shaft Deflection (Continued)
+– Affect on Alignment
+ Alignment readings will be different with and without the
+coupling
+ No indication what the alignment will be while the machine is
+in operation
+357
+Basics of  Rotating Industrial Equipm
+ent
+Alignment Troubleshooting
+ Bolt Bound
+– Affect on Alignment
+ Motor will not move far enough to bring the motor and pump
+back into alignment
+358
+Basics of  Rotating Industrial Equipm
+ent
+Alignment Troubleshooting
+ Bolt Bound
+– The pump and motor were not aligned properly before
+the skid was grouted
+– Something, such as a pipe, has moved from its
+original position
+– The motor or pump is not the same as the original
+359
+Basics of  Rotating Industrial Equipm
+ent
+
+– The pump and motor were not aligned properly before
+the skid was grouted
+– Something, such as a pipe, has moved from its
+original position
+– The motor or pump is not the same as the original
+359
+Basics of  Rotating Industrial Equipm
+ent
+Alignment Troubleshooting
+ Bolt Bound
+– Bolts in improper position
+ Re-position machine on Skid
+– Pipe Strain
+ Correct Piping mis-alignment
+– Wrong Motor / Pump
+ Replace Incorrect Part
+360
+Basics of  Rotating Industrial Equipm
+ent
+Alignment Troubleshooting
+ Coupling Lateral Clearance
+– Cause:
+ Wrong Coupling
+ Improper machine position
+ Excessive Axial Shaft movement
+361
+Basics of  Rotating Industrial Equipm
+ent
+Alignment Troubleshooting
+ Solution:
+– Loosen the Shaft grub screws and move the coupling flange(s)
+as necessary to establish the correct clearance
+– If excessive shaft axial play was present, repair the cause for this
+play.
+– Consult the equipment manufacturer
+362
+Basics of  Rotating Industrial Equipm
+ent
+Thermal Growth
+Top View
+Motor Pump
+Motor Pump
+Side View
+363
+
+Basics of  Rotating Industrial Equipm
+ent
+Thermal Growth
+Top View
+Motor Pump
+Motor Pump
+Side View
+363
+Basics of  Rotating Industrial Equipm
+ent
+Summary
+ Review Question and Answer Session
+CLICK TO RETURN TO TOPICS
+364
+### VIBRATION ANALYSIS
+365
+Basics of  Rotating Industrial Equipm
+ent
+Course Objectives
+ Define the need for analysis
+ Define the cause and effects of equipment
+### vibration
+ State how vibration is measured
+366
+Basics of  Rotating Industrial Equipm
+ent
+### Introduction
+ Method to detect and control the mechanical
+condition of rotating equipment.
+367
+Basics of  Rotating Industrial Equipm
+ent
+What is vibration?
+ Motion of a machine from rest.
+ Method to detect and control the mechanical
+condition of rotating equipment.
+ Vibration amplitude.
+ Vibration facts.
+368
+Basics of  Rotating Industrial Equipm
+ent
+### Vibration
+### Vibration is the mechanical oscillation or motion
+about a reference point of equilibrium
+- Violin string
+- Rotating machinery
+369
+Basics of  Rotating Industrial Equipm
+ent
+### Vibration
+ Vibratory system includes:
+
+### Vibration
+### Vibration is the mechanical oscillation or motion
+about a reference point of equilibrium
+- Violin string
+- Rotating machinery
+369
+Basics of  Rotating Industrial Equipm
+ent
+### Vibration
+ Vibratory system includes:
+– Spring or Elasticity
+– Mass or Inertia
+– External Force
+1.2 m
+50 mm
+370
+Basics of  Rotating Industrial Equipm
+ent
+Oscillatory Motion
+External force causes the
+system to oscillate  as the
+spring stores and
+releases energy
+1.2 m
+50 mm
+θ=w↑
+A
+p
+O
+A sin w↑
+A
+2π
+w↑
+371
+Basics of  Rotating Industrial Equipm
+ent
+### Vibration
+Vibrations may:
+– Repeat (reciprocating machinery)
+– Occur at specific times (impact)
+372
+Basics of  Rotating Industrial Equipm
+ent
+Repetitive Vibrations
+ The period of repetition may be measured as
+frequency
+ Most equipment vibrations occur between 10 and
+2000Hz
+373
+Basics of  Rotating Industrial Equipm
+ent
+Normal Vibrations
+ Machines will have a characteristic vibration
+signature during normal operation
+0
+20
+-20
+0 ΔT
+G PK
+
+373
+Basics of  Rotating Industrial Equipm
+ent
+Normal Vibrations
+ Machines will have a characteristic vibration
+signature during normal operation
+0
+20
+-20
+0 ΔT
+G PK
+0.80000
+374
+Basics of  Rotating Industrial Equipm
+ent
+Resonance
+ The resonance combines with the natural
+frequency of the system resulting in an amplified
+### vibration.  This can lead to destruction.
+– Example: Bridge resonance
+375
+Basics of  Rotating Industrial Equipm
+ent
+Effects of Machine Vibration
+ Efficiency loss
+ Wear acceleration
+ Machine failure
+ Personnel injury
+376
+Basics of  Rotating Industrial Equipm
+ent
+Source of Equipment Vibration
+ Normal motion of machine operation
+ Unbalanced parts
+ Worn bearings
+ Loose mounting
+ External impact
+377
+Basics of  Rotating Industrial Equipm
+ent
+Causes of Unbalance
+ Deposit and Build-Up
+ Corrosion and Wear
+ Eccentricity
+ Keys And Keyways
+ Clearance Tolerances
+378
+Basics of  Rotating Industrial Equipm
+ent
+Misalignment
+ Parallel Offset Misalignment
+
+ Deposit and Build-Up
+ Corrosion and Wear
+ Eccentricity
+ Keys And Keyways
+ Clearance Tolerances
+378
+Basics of  Rotating Industrial Equipm
+ent
+Misalignment
+ Parallel Offset Misalignment
+ Angular Misalignment
+ Combination
+ Tolerances
+379
+Basics of  Rotating Industrial Equipm
+ent
+Eccentricity
+380
+Basics of  Rotating Industrial Equipm
+ent
+### Vibration From:
+ Bent Shafts
+ Faulty Anti-Friction Bearings
+ Faulty Journal Bearings
+ Belt Drive Problems
+ Bad Gears
+381
+Basics of  Rotating Industrial Equipm
+ent
+### Vibration Sensors
+ Sensors convert vibrations into electrical signals
+ Two types of sensors
+ Accelerometers
+ Proximity
+382
+Basics of  Rotating Industrial Equipm
+ent
+Velocity Transducer
+383
+Basics of  Rotating Industrial Equipm
+ent
+Radial Probe Mounting
+384
+Basics of  Rotating Industrial Equipm
+ent
+Axial Position
+385
+Basics of  Rotating Industrial Equipm
+ent
+Key Phasor
+386
+
+Radial Probe Mounting
+384
+Basics of  Rotating Industrial Equipm
+ent
+Axial Position
+385
+Basics of  Rotating Industrial Equipm
+ent
+Key Phasor
+386
+Basics of  Rotating Industrial Equipm
+ent
+Proximity Probes
+387
+Basics of  Rotating Industrial Equipm
+ent
+388
+Basics of  Rotating Industrial Equipm
+ent
+389
+Basics of  Rotating Industrial Equipm
+ent
+Summary
+ Review
+ Question and Answer Session
+CLICK TO RETURN TO TOPICS
+390
+THERMAL ANALYSIS
+391
+Basics of  Rotating Industrial Equipm
+ent
+### Introduction
+Purpose of thermal analysis
+Types of equipment used
+Antifriction bearing
+392
+Basics of  Rotating Industrial Equipm
+ent
+Temperature Measurement
+Temperature measurement, just as flow and
+pressure measurements, is another method for
+determining both performance and reliability of
+rotating equipment and hydraulic and lubrication
+systems.
+393
+Basics of  Rotating Industrial Equipm
+ent This condition will continue until
+component failure occurs. Fluctuating
+high loads, vibration, metal fatigue, age,
+and specific operational environments
+such as: extreme ambient
+temperatures, wind, chemicals, or dirt in
+
+rotating equipment and hydraulic and lubrication
+systems.
+393
+Basics of  Rotating Industrial Equipm
+ent This condition will continue until
+component failure occurs. Fluctuating
+high loads, vibration, metal fatigue, age,
+and specific operational environments
+such as: extreme ambient
+temperatures, wind, chemicals, or dirt in
+the atmosphere will increase the speed
+of degradation and the number of faults
+in electrical systems.
+394
+Basics of  Rotating Industrial Equipm
+ent
+Bimetallic Thermometers
+Bi-metallic Spring
+BottomBack
+395
+Basics of  Rotating Industrial Equipm
+ent
+Thermocouples:
+74.0°F
+DIGITAL THERMOMETER
+-20° TO 70° 0° TO 160°F
+396
+Basics of  Rotating Industrial Equipm
+ent
+Thermographic Instruments:
+249°
+397
+Basics of  Rotating Industrial Equipm
+ent Evaluating thermal signatures of
+electrical systems with Infrared
+Thermography will provide the
+### maintenance department, from point of
+generation to the end user, with valuable
+information directly related to operational
+conditions of virtually every item through
+which electric current passes through.
+398
+Basics of  Rotating Industrial Equipm
+ent To determine an adverse operating
+
+### maintenance department, from point of
+generation to the end user, with valuable
+information directly related to operational
+conditions of virtually every item through
+which electric current passes through.
+398
+Basics of  Rotating Industrial Equipm
+ent To determine an adverse operating
+temperature of a component, it is
+necessary to first determine a baseline.
+For electrical systems the baseline is
+established when the system is
+operating under normal load and
+operating conditions. Once a component
+or system baseline signature is
+determined, the thermography technician
+can identify an anomaly through
+comparison with the baseline.
+399
+Basics of  Rotating Industrial Equipm
+ent Most anomalies in electrical systems are
+proceeded by a change in its thermal
+signature. Experienced thermographers are
+able to identify and analyze problems prior
+to costly failures. Infrared electrical surveys
+provide many benefits. Two major
+advantages of performing infrared
+thermography surveys are:
+400
+Basics of  Rotating Industrial Equipm
+ent Other advantages of an infrared inspection
+are:
+1.Safety - Electrical component failure
+can be catastrophic, injuring personnel
+or damaging equipment.
+2.Greater System Security - locate the
+problems prior to failure greatly reduces
+unscheduled outages, associated
+equipment damage and downtime.
+401
+
+1.Safety - Electrical component failure
+can be catastrophic, injuring personnel
+or damaging equipment.
+2.Greater System Security - locate the
+problems prior to failure greatly reduces
+unscheduled outages, associated
+equipment damage and downtime.
+401
+Basics of  Rotating Industrial Equipm
+ent Thermal energy generated from an
+electrical component is directly in proportion
+to the square of the current passing through
+it multiplied by the components resistance
+(I²R Loss). As the condition of the
+component deteriorates, its resistance can
+increase and generate more heat. Then as
+the component temperature rises the
+resistance increases further.
+402
+Basics of  Rotating Industrial Equipm
+ent When performing an infrared inspection of
+an electrical system it is important to realize
+that all of the radiation leaving a surface is
+not due solely to the temperature of the
+surface. Unless knowledge, understanding
+and caution are applied during the analysis
+portion of the inspection, documentation
+and interpretation may result in the false
+conclusion that a fault does or does not
+exist.
+403
+Basics of  Rotating Industrial Equipm
+ent Thermal pattern variations are normally
+referred to in two ways:
+Real Temperature Differences - These
+are thermal patterns caused only by
+infrared energy exiting the surface of the
+object.
+
+Basics of  Rotating Industrial Equipm
+ent Thermal pattern variations are normally
+referred to in two ways:
+Real Temperature Differences - These
+are thermal patterns caused only by
+infrared energy exiting the surface of the
+object.
+Apparent Temperature Differences - they
+are patterns which are due to factors other
+than variations of the target surface.
+404
+Basics of  Rotating Industrial Equipm
+ent The other three (convection, thermal
+capacitance, and evaporation) will make
+a true temperature change at the surface
+of the component, but it does not provide
+indication of an electrical fault. In fact,
+they may actually provide false
+information by disguising or reducing the
+amount thermal energy associated with
+the anomaly, or heat up a component
+and make it appear to be a fault.
+405
+Basics of  Rotating Industrial Equipm
+ent Real Apparent
+I2R Loss
+-increased Resistance
+-load fluctuations
+Emittance
+Harmonics Reflectance
+Induced heating Transmittance
+Convection Geometric Variations
+Thermal capacitance
+406
+Basics of  Rotating Industrial Equipm
+ent
+Of the real thermal pattern variations,
+only three will provide indications of a
+problem on an electrical system:
+1. I²R Loss
+
+Thermal capacitance
+406
+Basics of  Rotating Industrial Equipm
+ent
+Of the real thermal pattern variations,
+only three will provide indications of a
+problem on an electrical system:
+1. I²R Loss
+2. Harmonics
+3. Induced heating
+407
+Basics of  Rotating Industrial Equipm
+ent Remember, the actual component
+temperature may change or may not
+change. The thermal variations are not
+necessarily caused by the electrical
+components themselves but by outside
+forces creating the thermal variations,
+creating or disguising problems.
+408
+Basics of  Rotating Industrial Equipm
+ent
+Many people say it is easy to perform an
+infrared electrical inspection, be careful -
+it's easy to be fooled. Beware, IR electrical
+inspections are one of the most difficult
+applications if done properly, not just
+being a "hot spot" finder.
+409
+Basics of  Rotating Industrial Equipm
+ent The most common loss of power in an
+electric circuit is the heat produced when
+current flows through a resistance. The
+exact relationship between the three
+quantities of heat, current and resistance
+is given by the equation:
+410
+Basics of  Rotating Industrial Equipm
+ent P = I²R
+
+current flows through a resistance. The
+exact relationship between the three
+quantities of heat, current and resistance
+is given by the equation:
+410
+Basics of  Rotating Industrial Equipm
+ent P = I²R
+Where P = Power and is the rate of
+doing work or the rate at which heat is
+produced. It can see from the equation
+that the amount of thermal energy
+produced is increased or decreased by
+increasing or decreasing the current or
+resistance.
+411
+Basics of  Rotating Industrial Equipm
+ent This I²R heating, as it is often called, takes
+place in the circuit wires as well as in
+resistors. The basic unit of Power is the
+watt, wattage is equal to the voltage (E)
+across a circuit multiplied by current (I)
+through the circuit. Below we have divided
+the effects of power under two headings,
+since the reason for the power
+consumption provides an indication as to
+how the system or components are
+operating.
+412
+Basics of  Rotating Industrial Equipm
+ent Here we consider a resistor. A resistor in
+any component in the electric circuit, this
+can be connections, fuses, switches,
+
+operating.
+412
+Basics of  Rotating Industrial Equipm
+ent Here we consider a resistor. A resistor in
+any component in the electric circuit, this
+can be connections, fuses, switches,
+breakers, and so on. Under standard
+operating conditions each component
+will have a certain "normal" resistance
+associated with it. It is when the
+resistance deviates from this norm that
+the component begins to heat up and
+must be identified and repaired.
+413
+Basics of  Rotating Industrial Equipm
+ent Overheating of components can have
+several origins. Low contact pressure may
+occur when assembling a connection or
+through wear of the material e.g. decreasing
+spring tension, worn threads or over
+tightened bolts. Another source could be
+deteriorated conductors of motor windings.
+As the component continues to deteriorate
+the temperature will continue to increase
+until the melting point of the material is
+reached and complete failure occurs.
+414
+Basics of  Rotating Industrial Equipm
+ent This type of fault can generally be
+identified because there is a "hottest point"
+on the thermal image. What this means is,
+the heat being generated is greatest at the
+
+414
+Basics of  Rotating Industrial Equipm
+ent This type of fault can generally be
+identified because there is a "hottest point"
+on the thermal image. What this means is,
+the heat being generated is greatest at the
+fault point with a tapering off of thermal
+energy away from the point of highest
+resistance. Remember, an increase in
+load will also have a significant effect on
+increasing the temperature of a high
+resistance problem (I2R).
+415
+Basics of  Rotating Industrial Equipm
+ent
+Poor contact B phase breaker
+416
+Basics of  Rotating Industrial Equipm
+ent
+This hot bus stab to the back of the breaker represents an extremely
+serious problem. Why?
+First because of its location in the system. A failure here will typically
+have significant consequences! Second, the heat appears to be
+generated inside the breaker. This means the thermal pattern we see is
+greatly diminished by comparison to the actual point of contact that is
+inside the breaker. Lastly, the material we are looking at has a very low
+emissivity, so if it looks at all warm or hot, it is extremely hot! This
+type of problem should generally be checked and repaired immediately.
+
+generated inside the breaker. This means the thermal pattern we see is
+greatly diminished by comparison to the actual point of contact that is
+inside the breaker. Lastly, the material we are looking at has a very low
+emissivity, so if it looks at all warm or hot, it is extremely hot! This
+type of problem should generally be checked and repaired immediately.
+If this is not possible, it should be monitored closely until the next
+repair opportunity.
+417
+Basics of  Rotating Industrial Equipm
+ent
+The T2 connection on this
+starter is approximately 54
+degrees F warmer than the
+T1 connection. When
+measuring temperatures it is
+critical to also know the
+load, since hear output and
+thus temperatures at this
+abnormally high resistance
+connection will increase at
+the square of the load.
+418
+Basics of  Rotating Industrial Equipm
+ent
+The load-side center phase
+connection of this primary
+feed pump breaker is running
+approximately 21 degrees F
+over the left phase. Condition
+of the right phase is
+unknown, but further
+investigation is probably
+warranted.
+419
+Basics of  Rotating Industrial Equipm
+ent
+The right phase of this
+molded case breaker shows
+a classic pattern associated
+with a loose connection.
+
+warranted.
+419
+Basics of  Rotating Industrial Equipm
+ent
+The right phase of this
+molded case breaker shows
+a classic pattern associated
+with a loose connection.
+Note how the temperature
+diminishes further away
+from the source of the
+heating, the connection.
+While loading conditions
+should be taken into
+account, this is more than
+imbalanced load.
+420
+Basics of  Rotating Industrial Equipm
+ent
+Problem
+Classification
+Phase to Phase
+Temperature Rise
+Comments
+Minor 1º - 10º C Repair in regular maintenance schedule;
+little probability of physical damage
+Intermediate 10º - 30º C Repair in the near future (2-4 weeks).
+Watch load and change accordingly.
+Inspect for physical damage.  There is
+probability of damage in the component,
+but not in the surrounding components.
+Serious 30º - 70º C Repair in immediate future (1-2 days).
+Replace component and inspect the
+surrounding components for probable
+damage.
+Critical above 70º C Repair immediately (overtime).  Replace
+component, inspect surrounding
+components.  Repair while IR camera is
+still available to inspect after.
+
+Replace component and inspect the
+surrounding components for probable
+damage.
+Critical above 70º C Repair immediately (overtime).  Replace
+component, inspect surrounding
+components.  Repair while IR camera is
+still available to inspect after.
+* with wind speed less than 15mph     * with load conditions greater than 50%
+Hint: Have an electrical contractor use a clamp on ammeter to verify loading.
+421
+Basics of  Rotating Industrial Equipm
+ent Wind will affect your temperature readings due to convection
+cooling.  This can be compensated in outdoor electrical
+predictive maintenance applications by multiplying your temp.
+reading by the correction factors listed below.
+Wind Speed (Miles Per Hour) Correction Factor
+2 1.00
+4 1.30
+6 1.60
+8 1.68
+10 1.96
+12 2.10
+14 2.25
+16 2.42
+18 2.60
+422
+Basics of  Rotating Industrial Equipm
+ent
+As the load increases in a circuit the power output will
+increase as a square of the load, and the temperature
+of the entire circuit and components on the circuit will
+increase. From a thermographic point of view, load is
+
+Basics of  Rotating Industrial Equipm
+ent
+As the load increases in a circuit the power output will
+increase as a square of the load, and the temperature
+of the entire circuit and components on the circuit will
+increase. From a thermographic point of view, load is
+usually looked at as a specific type of problem with
+specific thermal indications. As the load on an electrical
+component rises, so does the temperature.
+423
+Basics of  Rotating Industrial Equipm
+ent
+An even load on each phase of a three phase system
+for example, should result in uniform temperature
+patterns on all three phases. An anomaly is identified
+when the overall component and conductor
+temperature is too high, indicating an overload
+condition. An unbalanced condition can also be a
+problem and is identified by the conductors not
+displaying a balanced or equal thermal pattern and
+temperature.
+424
+Basics of  Rotating Industrial Equipm
+ent
+Harmonics are currents or voltages that are
+multiples of the basic incoming 60 HZ frequency
+serving an electrical distribution system. Possibly
+the most damaging harmonics are the odd
+harmonics known as triplens (third harmonics).
+The triplen harmonics add to the basic frequency
+
+Harmonics are currents or voltages that are
+multiples of the basic incoming 60 HZ frequency
+serving an electrical distribution system. Possibly
+the most damaging harmonics are the odd
+harmonics known as triplens (third harmonics).
+The triplen harmonics add to the basic frequency
+and can cause severe over voltage, overcurrent
+and overheating. Frequency is not the enemy of
+the electrical system. The real enemy is
+increased heat caused by higher frequency
+harmonics.
+425
+Basics of  Rotating Industrial Equipm
+ent
+These triplen harmonics can create drastic overheating and even
+melting of neutral conductors, connections, contact surfaces, and
+receptacle strips. Other equipment effected by harmonics are
+transformers, stand-by generators, motors, telecommunication
+equipment, electrical panels, circuit breakers, and busbars.
+Harmonics problems
+on circuit
+426
+Basics of  Rotating Industrial Equipm
+ent
+Alternating current in electrical systems naturally
+induce (induction) current flow and magnetic flux
+into surrounding metallic objects such as conduit,
+metal enclosures and even structural support
+steel. This phenomenon will occur in areas of
+high electromagnetic fields such as high voltage
+
+Alternating current in electrical systems naturally
+induce (induction) current flow and magnetic flux
+into surrounding metallic objects such as conduit,
+metal enclosures and even structural support
+steel. This phenomenon will occur in areas of
+high electromagnetic fields such as high voltage
+equipment, microwave transmitters, and
+induction heating equipment. This condition can
+be induced in ferrous material when an
+electrically induced electro-magnetic field is
+present.
+427
+Basics of  Rotating Industrial Equipm
+ent
+Infrared condition monitoring as a part of a
+total predictive maintenance program can
+increase reliability and improve operating
+profit. Infrared thermography will assist in
+determining equipment and facility
+### maintenance priorities, enhance
+operational safety and contribute to a
+stronger bottom line.
+428
+Basics of  Rotating Industrial Equipm
+ent
+Summary
+ Review
+ Question and Answer Session
+CLICK TO RETURN TO TOPICS
+429
+PREVENTATIVE MAINTENANCE
+430
+Basics of  Rotating Industrial Equipm
+ent
+Main Topics
+ Preventive Maintenance Programs
+ Maintenance problems
+431
+Basics of  Rotating Industrial Equipm
+ent
+### Maintenance Problems
+ Wear and tear
+ Careless or untrained personnel
+
+ Preventive Maintenance Programs
+ Maintenance problems
+431
+Basics of  Rotating Industrial Equipm
+ent
+### Maintenance Problems
+ Wear and tear
+ Careless or untrained personnel
+ Improper lubrication
+ Excessive loads and speeds
+ Incorrect alignment practices
+ Vibration
+432
+Basics of  Rotating Industrial Equipm
+ent
+Prevention Troubleshooting
+ Troubleshooting is the search for the root cause
+of a problem
+ The need to troubleshoot can be minimized by
+an effective maintenance programs
+433
+Basics of  Rotating Industrial Equipm
+ent
+Types of Maintenance
+ Preventative maintenance
+ Condition based maintenance
+ Proactive maintenance
+ Failure history based maintenance
+434
+Basics of  Rotating Industrial Equipm
+ent
+Preventive Maintenance
+ This type of maintenance is performed at set
+intervals.
+ Examples of time-based maintenance include:
+– Monthly calibration checks
+– Weekly lubrication
+– Daily housekeeping
+435
+Basics of  Rotating Industrial Equipm
+ent
+Condition Monitoring
+ Temperature
+ Vibration
+ Changes in noise or sound
+
+– Weekly lubrication
+– Daily housekeeping
+435
+Basics of  Rotating Industrial Equipm
+ent
+Condition Monitoring
+ Temperature
+ Vibration
+ Changes in noise or sound
+ Visually observed changes and problems
+436
+Basics of  Rotating Industrial Equipm
+ent
+Sound/Noise
+ Listening
+ Sound Measurements
+437
+Basics of  Rotating Industrial Equipm
+ent
+Preventative Maintenance
+Preparations
+ Preparation
+ Precautions
+438
+Basics of  Rotating Industrial Equipm
+ent
+### Pump Preventative Maintenance
+– Observe and record condition of pump
+– Listen to pump operation and note unusual sounds.
+– Record pressure readings
+– Feel for hot spots, take and record any necessary
+temperatures.
+– Feel for unusual vibration. Use vibration meter if necessary.
+– Lubricate bearings
+– Check mounting bolts
+– Check for unusual dirt or corrosion
+439
+Basics of  Rotating Industrial Equipm
+ent
+Fan Preventative Maintenance
+– Check all fan bolts for tightness
+– Check alignment of blades
+– Clean blades
+– Check fan belts
+– Check blades for scale or dirt, clean if required
+– Check blade drain holes
+– Check clearances
+440
+
+Fan Preventative Maintenance
+– Check all fan bolts for tightness
+– Check alignment of blades
+– Clean blades
+– Check fan belts
+– Check blades for scale or dirt, clean if required
+– Check blade drain holes
+– Check clearances
+440
+Basics of  Rotating Industrial Equipm
+ent
+Summary
+ Review
+ Question and Answer Session
+CLICK TO RETURN TO TOPICS
+441
+FAULT RECOGNITION
+442
+Basics of  Rotating Industrial Equipm
+ent
+Course Objectives
+ Identify types of maintenance problems
+ Discuss information gathering for  troubleshooting
+ Systematically solve equipment problems
+443
+Basics of  Rotating Industrial Equipm
+ent
+Main Topics
+ Predictive Maintenance
+ Condition Monitoring
+444
+Basics of  Rotating Industrial Equipm
+ent
+Predictive Maintenance
+ Systematic method of monitoring equipment.
+445
+Basics of  Rotating Industrial Equipm
+ent
+Predictive Maintenance
+ List the benefits of predictive maintenance
+446
+Basics of  Rotating Industrial Equipm
+ent
+Condition Monitoring
+ Temperature
+ Vibration
+ Changes in noise or sound
+ Visually observed changes and problems
+447
+Basics of  Rotating Industrial Equipm
+ent
+Temperature
+
+ent
+Condition Monitoring
+ Temperature
+ Vibration
+ Changes in noise or sound
+ Visually observed changes and problems
+447
+Basics of  Rotating Industrial Equipm
+ent
+Temperature
+ Surface Temperature
+448
+Basics of  Rotating Industrial Equipm
+ent
+### Vibration
+Screwdriver
+Listen
+### Vibration
+Probe
+449
+Basics of  Rotating Industrial Equipm
+ent
+Sound/Noise
+ Listening
+ Sound Measurements
+450
+Basics of  Rotating Industrial Equipm
+ent
+Sight
+Cracked
+Housing
+Seal
+Problem
+Leaking
+Lubrication
+Loose
+Bolts
+Loose
+### Bearing
+Housing
+451
+Basics of  Rotating Industrial Equipm
+ent
+### Pump – Steps in Troubleshooting
+ Talk to operators
+ Ensure other system components are
+working properly
+ Timing of symptoms
+-Sudden symptoms indicate complete
+failure of parts
+-Gradual symptoms indicate gradual
+wearing out of parts
+ Changes in pump’s operating
+characteristics
+452
+Basics of  Rotating Industrial Equipm
+ent
+Pumps -Symptoms You Can Here
+ Loud rattling or clanging noise
+ Growling or howling sound
+
+-Sudden symptoms indicate complete
+failure of parts
+-Gradual symptoms indicate gradual
+wearing out of parts
+ Changes in pump’s operating
+characteristics
+452
+Basics of  Rotating Industrial Equipm
+ent
+Pumps -Symptoms You Can Here
+ Loud rattling or clanging noise
+ Growling or howling sound
+ High-pitched screeching
+ Pinpointing Sources
+Use stethoscope, brass sounding rod, or short
+Length of pipe
+ Amplify sound from point of contact with pump
+453
+Basics of  Rotating Industrial Equipm
+ent
+Pumps - Symptoms You Can See
+ Abnormal pressure Readings
+ Leakage from stuffing box
+ Leakage from casing flange
+ Lubricant leak from bearing housing
+454
+Basics of  Rotating Industrial Equipm
+ent
+Some Pump Problems/Symptoms
+ Bearing Lubrication Leak
+ Bearings Damaged
+ Bearings Worn
+ Casing Flange Bolts Loose
+ Casing Flange Gasket Worn
+ Casing Wearing Ring Damaged
+ Casing Wearing Rings Worn
+
+ Bearing Lubrication Leak
+ Bearings Damaged
+ Bearings Worn
+ Casing Flange Bolts Loose
+ Casing Flange Gasket Worn
+ Casing Wearing Ring Damaged
+ Casing Wearing Rings Worn
+ Cavitation
+ Discharge Strainer Clogged
+455
+Basics of  Rotating Industrial Equipm
+ent
+Pumps – Symptoms You Can Feel
+ Excessive Vibration
+ Overheating
+456
+Basics of  Rotating Industrial Equipm
+ent
+Summary
+ Review
+ Question and Answer Session
+CLICK TO RETURN TO TOPICS

@@ -1,0 +1,100 @@
+flowchart TD
+  %% ============ LAYERS / GROUPS ============
+  subgraph S0[Part 0 — Setup]
+    A0[Create folders: data/{raw,clean,index}]:::op
+    A1[Dependency check & install\n(pandas, sklearn, imblearn, pypdf,\nfaiss-cpu, sentence-transformers,\nrank-bm25, tiktoken, lime)]:::op
+    A2[Capability report]:::op
+  end
+
+  subgraph S1[Part 1 — PdM Model + LIME]
+    B0[Load ai4i2020.csv]:::data
+    B1[Feature engineering:\n temp_diff, rot_rads, power_W,\n overstrain_metric]:::op
+    B2[Split & Scale]:::op
+    B3[SMOTE (balance classes)]:::op
+    B4[RandomForest → Calibrated (isotonic)]:::model
+    B5[LIME explainer (tabular)]:::exp
+    B6[Metrics: report, ROC AUC, AP]:::eval
+  end
+
+  subgraph S2[Part 2 — Manual Ingestion]
+    C0[PDFs in data/raw or Reference_data]:::data
+    C1[Extract text (pypdf)]:::op
+    C2[Structure-first chunking\n(300–800 tokens, 10–20% overlap)]:::op
+    C3[Attach metadata\n(manual_id, title, section, pages, revision, created_at)]:::op
+    C4[Store chunks → SQLite 'chunks'\n+ write clean/*.txt]:::store
+  end
+
+  subgraph S3[Part 3 — Embeddings & Index]
+    D0[Encode chunks]:::op
+    D1{SentenceTransformers\navailable?}:::gate
+    D2[FAISS index (L2)]:::index
+    D3[TF-IDF Vectorizer + KNN\n(fallback)]:::index
+    D4[BM25 keywords (optional)]:::index
+  end
+
+  subgraph S4[Part 4 — Retrieval Pipeline]
+    E0[Build query from datapoint\n+ LIME top features\n+ USER_KEYWORDS]:::op
+    E1[Vector search (FAISS or TF-IDF KNN)]:::op
+    E2[BM25 blend + keyword boosts]:::op
+    E3[Select Top-K (tunable)]:::op
+    E4[Context packing\n(dedupe, token budget,\n preserve manual/section order)]:::op
+  end
+
+  subgraph S5[Part 5 — Two-Stage LLM (Ollama)]
+    F0[(SYSTEM_MSG guardrails)]:::policy
+    F1[Stage 1:\n“Failure or Normal?”\nJSON: short_answer, primary_cause,\n failure_keywords, signals, confidence]:::llm
+    F2[Stage 2:\n“Why?” Grounded explanation\nJSON: answer, steps, cautions, citations,\n evidence_summary, conflicts,\n hallucination_check, maintenance_plan,\n confidence]:::llm
+  end
+
+  subgraph S6[Part 6 — Post-processing]
+    G0[Validate JSON (schema)]:::check
+    G1[Hallucination check\n(unsupported claims → warn/requery)]:::check
+    G2[Format citations from metadata]:::op
+    G3[Operator-first output\n(steps then deeper notes)]:::op
+  end
+
+  subgraph S7[Part 7 — Audio Output (TTS)]
+    H0[Compose narration\n(answer+steps+cautions+citations)]:::op
+    H1[pyttsx3 offline TTS\n→ data/audio/*.aiff|.wav]:::io
+    H2[(Optional) Inline playback]:::io
+  end
+
+  %% ============ FLOWS ============
+  A0 --> A1 --> A2
+  A2 --> B0
+  B0 --> B1 --> B2 --> B3 --> B4 --> B6
+  B4 --> B5
+
+  A2 --> C0
+  C0 --> C1 --> C2 --> C3 --> C4
+
+  C4 --> D0 --> D1
+  D1 -- Yes --> D2
+  D1 -- No  --> D3
+  D0 --> D4
+
+  %% Query path from a selected test sample
+  B5 -. LIME top features .-> E0
+  B4 --> E0
+  D2 --> E1
+  D3 --> E1
+  D4 --> E2
+
+  E0 --> E1 --> E2 --> E3 --> E4
+  E4 --> F0 --> F1 --> F2
+  F2 --> G0 --> G1 --> G2 --> G3
+  G3 --> H0 --> H1 --> H2
+
+  %% ============ STYLES ============
+  classDef op fill:#eef7ff,stroke:#5aa2ff,stroke-width:1px;
+  classDef data fill:#fff8e6,stroke:#f3b200,stroke-width:1px;
+  classDef store fill:#f0fff0,stroke:#55aa55,stroke-width:1px;
+  classDef model fill:#fff0f5,stroke:#ff6aa7,stroke-width:1px;
+  classDef exp fill:#f4f0ff,stroke:#8a78ff,stroke-width:1px;
+  classDef eval fill:#e8f9f1,stroke:#17a673,stroke-width:1px;
+  classDef index fill:#f5fbff,stroke:#2e86de,stroke-width:1px;
+  classDef llm fill:#fdf0e6,stroke:#ff7e00,stroke-width:1px;
+  classDef policy fill:#ebebeb,stroke:#888,stroke-width:1px,stroke-dasharray:3 2;
+  classDef gate fill:#fff,stroke:#333,stroke-width:1px,stroke-dasharray:4 2;
+  classDef check fill:#eaf7ff,stroke:#1f8dd6,stroke-width:1px;
+  classDef io fill:#fff6fb,stroke:#d63384,stroke-width:1px;

@@ -1,0 +1,1190 @@
+JUNE 2006
+OPERATION AND
+### MAINTENANCE MANUAL
+ELECTRIC MOTOR DRIVE ARIEL
+CNG COMPRESSOR STATION
+NOTICE
+IMPORTANT SAFETY INFORMATION
+Only operate this equipment in accor dance with the instructions provided
+in this manual.  Improper operation of  this equipment could cause serious
+bodily harm or death and will void the equipment warranty.
+Repair or maintenance of this equi pment should only be completed by
+ANGI Customer Service personnel or  the Customer’s qualified service
+representative.
+Should you detect a gas leak…
+1. Immediately shut down the co mpressor and leave the compressor
+station.
+2.   Extinguish any open flame or source of ignition.
+3.   Shut off the supply valve and contact your authorized ANGI service
+representative and/or gas supplier.
+ANGI NATURAL GAS COMPRESSOR STATION
+ELECTRIC MOTOR DRIVE, ARIEL PACKAGE
+TABLE OF CONTENTS
+USER MODIFICATIONS.................................................................................................................. 4
+1. INTRODUCTION.......................................................................................................................... 5
+2. DESCRIPTION............................................................................................................................. 5
+2.1 COMPRESSOR ............................................................................................................ 5
+2.2 GAS SYSTEM............................................................................................................5-6
+
+USER MODIFICATIONS.................................................................................................................. 4
+1. INTRODUCTION.......................................................................................................................... 5
+2. DESCRIPTION............................................................................................................................. 5
+2.1 COMPRESSOR ............................................................................................................ 5
+2.2 GAS SYSTEM............................................................................................................5-6
+2.3 DRIVER......................................................................................................................... 6
+2.4 CONTROLS AND INSTRUMENTATION ...................................................................6-7
+3. COMPRESSOR SAFETY ............................................................................................................8
+3.1 GENERAL SYNOPSIS.................................................................................................. 8
+3.2 OPERATING ................................................................................................................. 8
+3.3 SERVICING ...............................................................................................................8-9
+3.4 LIFTING/TIE DOWN ..................................................................................................... 9
+4. INSTALLATION .......................................................................................................................... 10
+4.1 UNPACKING AND HANDLING................................................................................... 10
+4.2 SITE REQUIREMENTS .............................................................................................. 10
+4.3 STORAGE................................................................................................................... 10
+5. OPERATION .............................................................................................................................. 11
+5.1 INITIAL START UP...................................................................................................... 11
+6. MAINTENANCE ......................................................................................................................... 12
+6.1 RECOMMENDED PREVENTATIVE MAINTENANCE SCHEDULE ........................... 12
+
+5. OPERATION .............................................................................................................................. 11
+5.1 INITIAL START UP...................................................................................................... 11
+6. MAINTENANCE ......................................................................................................................... 12
+6.1 RECOMMENDED PREVENTATIVE MAINTENANCE SCHEDULE ........................... 12
+6.2 SERVICE SPECIFICATION...................................................................................12-13
+7. TROUBLESHOOTING ............................................................................................................... 14
+8. APPENDIX .....................................................................................................................................
+8.1. PREVENTIVE MAINTENANCE SCHEDULE ............................................................ 15
+4
+ANGI OPERATION AND SERVICE MANUAL      Rev 2006/06
+USER MODIFICATION
+ANGI must authorize all modifications to this
+equipment. Any unauthorized modifications will
+void the warranty, may cause damage to the
+equipment and could cause bodily harm.
+DISCLAIMER
+ANGI disclaims any responsibilities whatsoever to
+the customer or to any person for injury or damage
+to or loss of property or value resulting from the
+use of its products which have been subjected to
+misuse, accidents, misapplied, repaired by
+unauthorized person, or improperly installed.
+NOTICE: This manual is as current as possible at
+the time of printing and is subject to change
+without notice.  For information not covered in this
+
+misuse, accidents, misapplied, repaired by
+unauthorized person, or improperly installed.
+NOTICE: This manual is as current as possible at
+the time of printing and is subject to change
+without notice.  For information not covered in this
+manual, consult ANGI.
+CONTRACTOR OR INSTALLER : Leave this
+manual with the compressor station after
+installation is complete.
+CUSTOMER: Retain this manual for future
+reference.
+5
+ANGI OPERATION AND SERVICE MANUAL      Rev 2006/06
+1. INTRODUCTION
+This manual is intended to assist in the operation
+and maintenance of ANGI compressed natural gas
+(CNG) compressors used in CNG vehicle re-
+fueling applications.
+ANGI Compressor Stations are designed for
+continuous duty and unattended operation when
+properly applied and serviced.  This compressor
+station is designed to compress natural gas to
+desired discharge pressure. The compressor,
+manufactured by Ariel Corporation, is a lubricated,
+multi-stage, horizontally opposed, balanced,
+reciprocating compressor.
+An electric motor drives the compressor by means
+of a direct coupling.  The compressor package
+includes forced-air inter-coolers and after-cooler to
+cool the process gas between each stage of
+
+multi-stage, horizontally opposed, balanced,
+reciprocating compressor.
+An electric motor drives the compressor by means
+of a direct coupling.  The compressor package
+includes forced-air inter-coolers and after-cooler to
+cool the process gas between each stage of
+compression and prior to discharge, relief valves,
+and particulate and coalescing filters and priority
+storage valves.
+The compressor station is delivered with a control
+system to provide automated compressor
+operation, shut down limit monitoring and fault
+annunciation.
+The machine is designed and manufactured to
+conform to NFPA 52 for Compressed Natural
+Gas (CNG) Vehicular Fuel Systems and the
+National Electrical Code ANSI/NFPA 70.
+2. DESCRIPTION
+2.1 COMPRESSOR
+The compressor station utilizes an Ariel
+### compressor frame configured with specific
+cylinders, pistons, and valve components sized to
+provide the gas delivery performance required for
+this application.  Full details on the Ariel
+### compressor used in this application may be found
+in the Ariel manuals provided with this machine.
+Integral to the compressor is a chain driven frame
+lube pump and filter system, a separate force feed
+lube and manifold system to distribute lubricant to
+
+### compressor used in this application may be found
+in the Ariel manuals provided with this machine.
+Integral to the compressor is a chain driven frame
+lube pump and filter system, a separate force feed
+lube and manifold system to distribute lubricant to
+the lube points for the packing seals and rings and
+a venting system.  The oil is cooled by means of a
+remote oil cooler. An optional oil immersion heater
+is used to maintain a minimum oil temperature in
+cold service environments.
+2.2 GAS SYSTEM
+The gas system can be divided into the
+induction system
+, compressing system , re-
+circulation system.
+2.2.1 Induction System
+Gas is delivered to the station by a user-
+supplied connection.  If it is possible for the inlet
+gas pressure to rise above the specified inlet
+pressure, then the user must provide an inlet
+regulator to restrict the inlet pressure to a value
+within the limits of the machine. The control
+system monitors the inle t gas pressure and will
+shut down the compressor if the inlet gas is not
+provided within the allowable pressure range.
+The shut down levels for the inlet gas pressure
+have been set for the proper operating pressure
+
+system monitors the inle t gas pressure and will
+shut down the compressor if the inlet gas is not
+provided within the allowable pressure range.
+The shut down levels for the inlet gas pressure
+have been set for the proper operating pressure
+range and should not be adjusted in the field.
+Gas is also re-introduced into the inlet of the
+### compressor from the captive recovery tank
+located on the skid.  An on-skid regulator is
+provided to regulate the pressure of the re-
+circulated gas to match the specified inlet gas
+pressure.  By re-circulating the gas in this
+fashion, the gas from the compressor blow-down
+process is recovered.
+An actuated inlet valve is provided on-skid to
+interrupt gas flow to the compressor.  This valve
+is only open when the compressor running in
+loaded operation and during the warm-up and
+cool down cycle. This valve remains closed
+when the compressor is off or in stand-by.
+An inlet filter is provided to trap any incoming
+particulate and minor slugs of water or oil from
+the captive recovery tank.  The bowl on this filter
+is provided with a sight gauge to determine if the
+filter should be drained.
+
+An inlet filter is provided to trap any incoming
+particulate and minor slugs of water or oil from
+the captive recovery tank.  The bowl on this filter
+is provided with a sight gauge to determine if the
+filter should be drained.
+The inlet piping is provided with a safety relief
+valve to prevent over-pressurization due to
+failure of one of the pressure regulators or 1
+st
+stage compressor valves.
+2.2.2 Compressing System
+This portion of the system contains the
+reciprocating compressor , safety relief valves,
+inter-stage filtration, inter-stage cooling and after
+cooling.  The gas is compressed to the specified
+discharge pressure in multiple stages of
+compression.
+Between each stage of compression, the gas is
+passed through air-cooled fin and tube heat
+exchangers to be cooled.  The heat exchangers
+and fan system have been sized to meet the
+application.
+6
+ANGI OPERATION AND SERVICE MANUAL      Rev 2006/06
+After cooling, the gas is past through a filter to
+remove any condensed liquids and to reduce the
+amount of oil introduced into the gas stream by the
+### compressor.
+At the discharge of each stage of compression, the
+
+After cooling, the gas is past through a filter to
+remove any condensed liquids and to reduce the
+amount of oil introduced into the gas stream by the
+### compressor.
+At the discharge of each stage of compression, the
+gas temperature and pressure is monitored
+against shutdown limits and the compressor will
+shutdown should any inter-stage pressure or
+temperature trend outside of the operational limits.
+Exiting the final stage of compression, the gas is
+passed through an air-cooled, fin and tube heat
+exchanger for after-cooling. The after-cooler and
+cooling fan have been sized to meet the
+application.
+The gas is then passed through a pre-coalescing
+filter and a coalescing filter to remove oil from the
+gas stream prior to delivery to the storage system
+or dispenser.
+After the final stage filtration, the discharge
+pressure is monitored by the control system
+against START and STOP limits to determine if the
+### compressor should resume, continue or stop
+compressing gas.
+### Safety relief valves are provided on each stage of
+the compressor discharge piping to prevent
+dangerous over-pressurization due to compressor
+valve failure, flow blockage or control system
+failure.
+2.2.3 Re-circulation System
+
+the compressor discharge piping to prevent
+dangerous over-pressurization due to compressor
+valve failure, flow blockage or control system
+failure.
+2.2.3 Re-circulation System
+Tubing lines and valves are installed between the
+inter-stage and discharge filter bowls and the
+captive receiver tank.  At pre-determined intervals
+of operation and during warm-up and cool-down
+sequences, the gas is allowed to flow from the
+discharge of the compressor stages, through the
+filter bowls and into the receiver tank. During this
+time, the compressor is effectively operating
+unloaded and, consequently, allows for smooth
+### compressor starts and stops.  This system also
+allows for automatic purging of the filter bowls of
+accumulated liquids.
+2.3. COMPRESSOR AND FAN DRIVER
+An electric motor rated for the application is used
+to drive the compressor.  The motor has been
+sized for this application and has adequate power
+to drive the compressor with ample reserve power
+to maintain a continuous duty rating. A smaller
+secondary motor is provided to drive the cooler
+fan.
+A motor starter starts the compressor motor.
+Inside the motor starter enclosure is a motor
+contractor for starting the fan motor.  The motors
+
+secondary motor is provided to drive the cooler
+fan.
+A motor starter starts the compressor motor.
+Inside the motor starter enclosure is a motor
+contractor for starting the fan motor.  The motors
+are started and stopped automatically based on
+control signals sent to the motor starters from
+the control system.
+2.4 CONTROLS AND INSTRUMENTATION
+2.4.1 Control System
+This compressor station is delivered with a PLC
+based control system.  The control system
+provides all the compressor controls and
+monitoring function required to allow fully
+automatic, unattended operation and to provide
+fault code annunciation for quick fault recovery.
+For additional technical information on the
+control system refer to the control system
+operations manual and the electrical drawing
+package included in this manual.
+2.4.1.1 Modes of Operation
+With power supplied to the station and the
+ON/OFF keyswitch placed in the ON position,
+the control system is capable of supporting five
+modes of operation.  These modes of operation
+are;
+1) STAND-BY
+In this mode the storage is considered to be full
+and the compressor is stopped. The control
+system monitors the discharge pressure against
+a START pressure limit. The compressor will
+remain in this mode until the storage is depleted
+
+1) STAND-BY
+In this mode the storage is considered to be full
+and the compressor is stopped. The control
+system monitors the discharge pressure against
+a START pressure limit. The compressor will
+remain in this mode until the storage is depleted
+below this START pressure limit.
+2) WARM-UP
+Once the control system detects that the gas
+storage has been emptied below the START
+pressure limit, the pre-lube pump runs for a
+period of time, the inlet valve opens, the fan
+motor is started and runs and then the
+### compressor drive motor is started and runs.
+During this warm-up period the load/recirculation
+valve is open so that gas is simply re-circulated
+through the captive receiver tank.
+3) COMPRESSION
+After the completion of the warm-up cycle, the
+control system switches to loaded compressor
+operation.  During the transition from warm-up
+mode, the fan and compressor motors remain
+on and the load/recirculation valve is closed so
+that gas flows into to the discharge piping.
+During longer, uninterrupted operation in this
+mode, the load/recirculation valve will open
+during pre-determined intervals to drain the filter
+bowls of accumulated fluids.  The control system
+7
+
+During longer, uninterrupted operation in this
+mode, the load/recirculation valve will open
+during pre-determined intervals to drain the filter
+bowls of accumulated fluids.  The control system
+7
+ANGI OPERATION AND SERVICE MANUAL      Rev 2006/06
+will continue to run in this mode until the discharge
+pressure reaches the STOP pressure set point
+defined in the controller (or the compressor faults)
+4) COOL-DOWN
+Once the controller determines that the storage
+pressure is above the STOP pressure set-point,
+the load/recirculation valve opens and the
+### compressor motor and fan motor continue to run
+for a period of time to allow the compressor to
+unload and cool. After a cool down timer expires,
+the fan and compressor motors are stopped and
+the control system returns to STAND-BY mode.
+5) FAULTED
+During any of the modes mentioned above, the
+control system may detect a shutdown condition
+and the machine will be placed in FAULTED mode.
+In this mode the suction valve is closed and the
+fan and compressor motor is stopped.  The nature
+of the fault is announced on the front panel of the
+control enclosure.
+2.4.1.2 Fault Conditions
+
+In this mode the suction valve is closed and the
+fan and compressor motor is stopped.  The nature
+of the fault is announced on the front panel of the
+control enclosure.
+2.4.1.2 Fault Conditions
+A number of digital inputs and analog transducers
+are monitored by the control system to initiate a
+machine shutdown due to faulted operation.
+Only a subset of all the inputs and transducers are
+monitored for fault conditions in any one of the
+possible modes of operation.  For example, the
+### compressor oil pressure reading is ignored during
+STAND-BY operation.
+The fault tables below identify possible fault
+conditions.
+DIGITAL FAULTS
+DESCRIPTION
+Keyswitch
+Reset
+Oil Level Low
+High Vibration
+Low Oil Flow – Compressor
+High Final Pressure
+Emergency Stop Activated
+High Liquid Level – Receiver
+High Lube Temp – Compressor
+Too Many Starts Per Hour
+Note:  An Emergency Stop Fault is an indication
+that either a remote or local E-Stop pushbutton
+has been depressed (or a rate of rise heat
+detector has detected a fire or the gas detector
+has detected a gas leak).
+HIGH ANALOG FAULTS
+DESCRIPTION
+High Suction Pressure
+High Receiver Pressure
+High Final Pressure
+High 1 st Stage Pressure
+
+has detected a gas leak).
+HIGH ANALOG FAULTS
+DESCRIPTION
+High Suction Pressure
+High Receiver Pressure
+High Final Pressure
+High 1 st Stage Pressure
+High 2 nd Stage Pressure
+High 3 rd  Stage Pressure
+High 4 th  Stage Pressure
+High Oil Pressure – Compressor
+High 1 st Stage Temperature
+High 2 nd Stage Temperature
+High 3 rd Stage Temperature
+High 4th  Stage Temperature
+LOW ANALOG FAULTS
+DESCRIPTION
+Low Suction Pressure
+Low Receiver Pressure
+Low Final Pressure
+Low 1 st Stage Pressure
+Low 2 nd Stage Pressure
+Low 3 rd  Stage Pressure
+Low 4 th  Stage Pressure
+Low Oil Pressure – Compressor
+Low 1 st Stage Temperature
+Low 2 nd Stage Temperature
+Low 3 rd Stage Temperature
+Low 4 th  Stage Temperature
+8
+ANGI OPERATION AND SERVICE MANUAL      Rev 2006/06
+3. COMPRESSOR SAFETY
+3.1 GENERAL SYNOPSIS
+ANGI designs and manufactures all its products
+for safe operation.  However, the responsibility for
+safe operation rests with those who use and
+maintain these products.  The following safety
+precautions are offered as a guide, which, if
+followed, will minimize the possibility of accidents
+
+3.1 GENERAL SYNOPSIS
+ANGI designs and manufactures all its products
+for safe operation.  However, the responsibility for
+safe operation rests with those who use and
+maintain these products.  The following safety
+precautions are offered as a guide, which, if
+followed, will minimize the possibility of accidents
+throughout the useful life of this equipment.
+Only those delegated individuals who have read
+and understand the operator’s manual and have
+satisfactorily completed the ANGI training should
+operate this CNG compressor station.  Failure to
+follow the instructions, procedures and safety
+precautions in this manual may increase the
+possibility of accidents and injuries.
+Never start this CNG compressor station unless it
+is safe to do so.  Do not attempt to operate the
+CNG compressor station with a known unsafe
+condition.  Lock Out / Tag Out the compressor
+station to render it inoperative so others who do
+not know of the unsafe condition will not attempt to
+operate the unit until the unsafe condition has
+been corrected.
+Never clean, adjust or repair this machinery while
+it is in an operating state.  To reduce the risk of
+injury while performing service follow the
+instructions in the manual for placing the CNG
+
+been corrected.
+Never clean, adjust or repair this machinery while
+it is in an operating state.  To reduce the risk of
+injury while performing service follow the
+instructions in the manual for placing the CNG
+### compressor station in a zero energy state.
+Use and operate this CNG compressor only in full
+compliance with all pertinent OSHA requirements
+and pertinent federal, state and local code
+requirements.
+Do not modify this CNG compressor station except
+with written factory approval.
+3.2  OPERATING
+3.2.1 Before You Start the Compressor
+* Assure that there are no obstructions near
+the enclosure that may restrict ventilation
+flow.
+*  Check fluid levels
+* Check for any signs of fluid leaks on the
+floor/ground.
+* Remove all tools and/or loose items from the
+equipment.
+*  Verify that the inlet gas pressure does not
+exceed allowable limits of this machinery.
+*  Verify that all guards are in place
+*  Verify that all sources of ignition are
+extinguished.
+*  Verify that authorized personnel have
+satisfactorily completed all scheduled
+### maintenance tasks.
+*  Verify that all valves between compressor
+discharge and storage are open.
+
+extinguished.
+*  Verify that authorized personnel have
+satisfactorily completed all scheduled
+### maintenance tasks.
+*  Verify that all valves between compressor
+discharge and storage are open.
+3.2.2 Use of Compressor Station
+*  Do not wear loose clothing around the
+machinery.
+*  Do not operate the equipment with loose,
+broken or out of balance fan blades.
+*  Do not operate the equipment with a
+known gas leak.
+*  Routinely (daily) monitor and record all
+gauge pressures as part of your predictive
+### maintenance program.
+3.2.3 Other Safety Precautions
+*  Do not touch hot surfaces or moving parts,
+such as exhaust or fans.
+*  Do not adjust or restrict relief valves.
+*  Do not disconnect or alter shutdown
+sensors or switches.
+* Be aware of hot surfaces, sharp corners
+and edges.
+3.3 SERVICING
+* Before servicing this compressor station,
+place the station in a zero energy
+condition in accordance with the
+instructions below.
+* Make repairs only in clean, dry, well-lighted
+and well-ventilated areas.  Keep all parts
+of the body and any hand held tools or
+
+place the station in a zero energy
+condition in accordance with the
+instructions below.
+* Make repairs only in clean, dry, well-lighted
+and well-ventilated areas.  Keep all parts
+of the body and any hand held tools or
+other metal objects away from exposed
+live parts of the electrical system.
+3.3.1 Zero Energy Condition
+To minimize the risk of injury or accident during
+servicing, these procedures should be followed
+to place the station in a zero energy state.
+CAUTION! ELEVATED  PRESSURES WILL
+STILL EXIST IN PORTIONS OF THE
+### COMPRESSOR STATION PIPING AFTER
+PERFORMING THESE PROCEDURES.
+1)  Using your companies approved Lock Out /
+Tag Out procedures, disconnect the three
+phase electrical voltage and the control
+voltage. Consult site drawings for the
+location.
+2)  Using approved Lock Out / Tag Out
+procedures, turn off the main inlet gas valve.
+3)  Using approved Lock Out / Tag Out
+procedures, turn off the isolation valves on
+the storage cascade. Consult site drawings
+for the location.
+9
+ANGI OPERATION AND SERVICE MANUAL      Rev 2006/06
+
+procedures, turn off the isolation valves on
+the storage cascade. Consult site drawings
+for the location.
+9
+ANGI OPERATION AND SERVICE MANUAL      Rev 2006/06
+4)  Insure there is no source of ignition near or
+down wind of the compressor station.
+5)  Open the manual ball valve, located near the
+final compressor stage relief valve, in the final
+stage discharge line to vent discharge line
+gas.
+6)  Open the manual ball valve on the captive
+receiver tank to vent the gas in the tank.
+Failure to heed any of the above warnings or
+misuse of the compressor, even though not
+expressly mentioned herein, may result in
+severe injury or death, property damage and/or
+mechanical failure for which ANGI will not be
+held responsible.
+3.4 LIFTING/TIE DOWN
+The compressor station will be provided with four
+lifting eyes on the outside corners of the station or
+it will be supplied with four overhead lifting eyes.  If
+overhead lifting eyes are provided, use them
+instead of the 4 corner lift points to eliminate the
+requirement for the long spreader bar and to
+reduce the occurrence of damage to the
+### compressor enclosure.
+
+overhead lifting eyes are provided, use them
+instead of the 4 corner lift points to eliminate the
+requirement for the long spreader bar and to
+reduce the occurrence of damage to the
+### compressor enclosure.
+If there are any question regarding lifting, tie
+down or securing this equipment, contact
+ANGI prior moving this equipment.
+Only designated personnel shall do the lifting.
+The load capacity rating shall be clearly
+marked on hoist.  Do not exceed load rating.
+Inspection and testing for cracks or defects in
+hoist system shall be performed on a regular
+basis.  Before lifting, alert personnel in
+immediate areas. Do not stand under unit while
+it is being moved from one area to another on
+a hoist.  Do not stand under unit to do
+### maintenance work.
+Lifting eyes are positioned to provide safe
+lifting and/or tie down and must be used
+properly.  Secure or lift using all rings at all
+times.  Secure at approved tie down points
+only. Failure to follow proper procedures can
+result in damage to equipment and injury to
+personnel.
+10
+ANGI OPERATION AND SERVICE MANUAL      Rev 2006/06
+4. INSTALLATION
+4.1 UNPACKING AND HANDLING
+
+personnel.
+10
+ANGI OPERATION AND SERVICE MANUAL      Rev 2006/06
+4. INSTALLATION
+4.1 UNPACKING AND HANDLING
+Occasionally, damage may occur during shipping.
+Be sure to carefully inspect the unit before and
+after unpacking.  If damage has occurred, contact
+the freight carrier and fi le the appropriate claim
+forms. Then inform your ANGI representative
+immediately.
+Your compressor station has been prepared for
+shipping at ANGI’s factory.  This preparation
+requires disassembly of some of the station
+components.  Re-assembly at the site is to be
+completed with proper instruction or supervision of
+the ANGI service representative.
+4.2 SITE REQUIREMENTS
+Installation is only to be completed with the
+direct involvement of an authorized ANGI
+customer service representative or with full
+installation drawings present at the installation
+site.  Do not attempt to install this equipment
+without these resources.
+During installation, should any discrepancy be
+found between the actual machinery and the
+machine prints or site drawing, immediately
+notify the installation coordinator and the ANGI
+customer service representative.
+4.2.1 Foundation
+Your ANGI compressor station should be installed
+on a level pad of 8 inch (minimum thickness)
+
+machine prints or site drawing, immediately
+notify the installation coordinator and the ANGI
+customer service representative.
+4.2.1 Foundation
+Your ANGI compressor station should be installed
+on a level pad of 8 inch (minimum thickness)
+reinforced concrete.  The compressor station
+should not be operated prior to being secured to
+the concrete pad.
+4.2.2 Gas Supply
+CAUTION! THE INDUCTION MUST NEVER BE
+ALLOWED TO FLOAT HIGHER THAN THE
+SPECIFED MAXIMUM INDUCTION PRESSURE.
+MACHINE DAMAGE MAY RESULT.
+The volume of gas required is dependent on
+induction pressure and discharge pressure
+conditions.
+4.2.3 High Pressure Gas Connections
+High-pressure discharge lines between the
+### compressor station and the storage and/or
+dispenser(s) are typically connected by qualified
+contractors or by an ANGI authorized customer
+service representative. Consult the site diagrams
+and the on-site ANGI representative prior to
+making these connections.
+4.2.4 Electrical Connections
+High voltage connections are to be made only
+by a qualified electrician, in accordance with the
+ANGI interconnection diagrams.
+Each of the following connections is required
+between the compressor station and the site’s
+control and power distribution center:
+
+High voltage connections are to be made only
+by a qualified electrician, in accordance with the
+ANGI interconnection diagrams.
+Each of the following connections is required
+between the compressor station and the site’s
+control and power distribution center:
+1)  Grounding connections
+2)  Control power lines
+3)  Control signal wires
+4)  Infallible ground connection
+5)  ESD wiring
+6)  Telephone wiring (If required)
+Verify that each of these connections have been
+made as specified on ANGI’s interconnection
+diagrams.
+4.3 STORAGE
+In some cases it may be necessary to store the
+### compressor for extended periods of time before
+placing the unit in operation:
+1)  Place the station in a zero energy condition
+in accordance with the instructions provided
+in this manual.
+2)  Cover and seal all machine openings to
+prevent the entrance of water and dirt.
+3)  If the storage conditions are below freezing,
+make sure any moisture is drained off
+aftercoolers, traps, water-cooled heat
+exchangers and attendant piping.
+4)  Cover with a waterpro of tarpaulin that can
+be easily removed for in-storage
+### maintenance.
+
+make sure any moisture is drained off
+aftercoolers, traps, water-cooled heat
+exchangers and attendant piping.
+4)  Cover with a waterpro of tarpaulin that can
+be easily removed for in-storage
+### maintenance.
+5)  Place a fresh desiccant package in the
+control enclosure and in the on skid motor
+starter enclosure (if supplied)
+6) Compressor cylinders, valves, valve
+pockets, cross-head guides and the inside of
+the cylinder lube pump box should be
+coated with a polar anti-seize/anti-rust agent
+such as Mobil Oil Corporation, Mobilarma
+No. 246.
+7) Pour 3 ounces of liquid vapor corrosion
+inhibitor such as Corroless 300 into the
+crankcase.
+8)  Every two or three months, manually crank
+the compressor motor over one turn plus 90
+degrees to prevent flat spots on the bearings
+that could lead to premature failure.
+At the end of the storage period, follow the
+uncrating and start up procedures.  If the unit
+has been stored for an extended period, contact
+ANGI before restarting the compressor.
+11
+
+At the end of the storage period, follow the
+uncrating and start up procedures.  If the unit
+has been stored for an extended period, contact
+ANGI before restarting the compressor.
+11
+ANGI OPERATION AND SERVICE MANUAL      Rev 2006/06
+5. OPERATION
+5.1 INITIAL START UP
+IMPORTANT! READ ARIEL CORPORATION’S
+SERVICE MANUAL AND COMPLETE THE
+ARIEL START-UP CHECK LIST.
+1) Verify that all scheduled installation tasks have
+been completed and inspected and all
+auxiliary equipment is prepared.
+2)  Complete the Ariel Compressor Start Up
+Check List in entirety
+3)   Inspect fan blades to insure they are not
+missing, cracked or otherwise damaged.
+4)  Verify all belts are in place and properly
+tensioned and guards are in place and that
+they do not interfere with rotating equipment.
+5) Verify that all safety devices and Emergency
+Stop circuits are functional.
+6)  Verify inlet pressure is correct.
+7)  Verify all electrical connections to the motor
+starter are properly made.
+8)  Verify that all personnel are at a clear and safe
+distance from the machine and have been
+instructed that the machine is to be started.
+
+7)  Verify all electrical connections to the motor
+starter are properly made.
+8)  Verify that all personnel are at a clear and safe
+distance from the machine and have been
+instructed that the machine is to be started.
+9) When ready to start, apply power to the station
+and place the ON/OFF keyswitch in the ON
+position.
+10)  Observe that the fan motor starts smoothly
+without lugging and without belt slippage.
+11) Observe that the compressor motor starts
+smoothly without lugging and absent of harsh
+vibrations and noises.
+12)  Verify that the compressor crankcase
+develops oil pressure and that the indicator pin
+is moving on the compressor lubrication
+distribution block.
+13)  Observe that there are no excessive vibrations
+or unusual noises.
+14)  Check for any gas leaks.
+15)  Check for any oil leaks.
+16)  Monitor and record inter-stage and discharge
+pressures.
+12
+ANGI OPERATION AND SERVICE MANUAL      Rev 2006/06
+6. MAINTENANCE
+6.1 RECOMMENDED PREVENTATIVE
+### MAINTENANCE SCHEDULE
+ANGI has developed a preventative maintenance
+
+ANGI OPERATION AND SERVICE MANUAL      Rev 2006/06
+6. MAINTENANCE
+6.1 RECOMMENDED PREVENTATIVE
+### MAINTENANCE SCHEDULE
+ANGI has developed a preventative maintenance
+schedule for this equipment based on number of
+hours of operation. Adheri ng to this schedule will
+minimize unscheduled downtime and assure long
+machine life.
+This maintenance schedule is summarized in the
+Preventative Maintenance Table  included in the
+Appendix in this section. The maintenance
+intervals in this table are based on the hours of
+operation displayed on the control panel hour
+meter. When using this table, refer to the Service
+Specifications in this ma nual for detailed servicing
+procedures and considerations.
+This table has been set-up based on nominal
+operating conditions and will need to be
+altered for harsh operating environments.
+When performing any maintenance, lock out
+the controls to prevent inadvertent starting.
+6.2 SERVICE SPECIFICATIONS
+6.2.1 COMPRESSOR CRANKCASE LUBE
+SYSTEM
+6.2.1.1. Compressor Lubrication Spec.
+See Compressor Operation & Maintenance
+Manual for the correct lubrication specifications.
+The compressor is shipped with Polyglycol
+
+SYSTEM
+6.2.1.1. Compressor Lubrication Spec.
+See Compressor Operation & Maintenance
+Manual for the correct lubrication specifications.
+The compressor is shipped with Polyglycol
+lubricant in the crankcase on all North
+American orders. DO NOT MIX with Petroleum
+based oils.
+International shipments have diester synthetic
+oil in the crankcase. Diester synthetic will mix
+with petroleum oils.
+6.2.1.2. Compressor Crankcase Lube Level
+A sight glass is provided on the auxiliary end of the
+crankcase that identifies the lubrication level. The
+oil should always be replenished by removing the
+breather cap and adding oil through the top cover.
+DO NOT ADD OIL WHILE THE COMPRESSOR
+IS RUNNING
+The oil level should be filled 2/3-3/4 of the sight
+glass. DO NOT OVERFILL THE CRANKCASE
+SUMP.  After running the compressor, it may be
+necessary to add oil to the crankcase sump to
+one-half level on the sight gauge, but never must
+exceed two-thirds height when the compressor is
+primed and running.
+Assure that the system has been fully primed
+
+necessary to add oil to the crankcase sump to
+one-half level on the sight gauge, but never must
+exceed two-thirds height when the compressor is
+primed and running.
+Assure that the system has been fully primed
+prior to checking oil levels.
+6.2.1.3. Compressor Crankcase Oil Pressure
+A spring loaded oil pressure regulator is
+provided on the compressor. The oil pressure
+may be adjusted by removing the cover on the
+regulator and turning the adjusting bolt.  The oil
+pressure has been set by ANGI to the proper
+operating pressure of 55-60 psig as measured
+on the downstream side of the oil filter.
+6.2.1.4. Compressor Crankcase Oil Filtration
+A strainer basket and oil filter is provided to
+provide filtration.  Always replace the oil filter
+element and clean the strainer basket when
+replacing the crankcase oil.
+The strainer basket is located on the auxiliary
+end of the compressor frame below the oil level.
+Only the replace filter element with a same
+grade element. Element replacement interval
+should be completed per the Periodic
+### Maintenance Schedule or any time a 10 psig
+
+end of the compressor frame below the oil level.
+Only the replace filter element with a same
+grade element. Element replacement interval
+should be completed per the Periodic
+### Maintenance Schedule or any time a 10 psig
+pressure drop is detected across the filter.
+6.2.2. COMPRESSOR FORCED FEED
+LUBRICATION SYSTEM
+6.2.2.1. Lubrication Reservoir Level
+A separate lubrication reservoir and sight glass
+is provided to lubricate the worm gear and cam
+on the lubricator.
+6.2.2.2. Lubrication Rate
+The lubrication feed rate may be adjusted by
+turning an adjuster knob on top of the lubricator.
+Proper lubrication rate may be confirmed by
+observing the indication on the digital no-flow
+switch.  This switch is mounted to the lubrication
+distribution block. Verify that the lubrication rate
+by observing the indication and comparing the
+rate to that specified on data plate attached to
+the lubricator.
+6.2.3. COOLING SYSTEM
+6.2.3.1 Cooling Fan
+The fan blade should be inspected for cracked
+or broken blades.  Additionally, the blade pitch
+
+the lubricator.
+6.2.3. COOLING SYSTEM
+6.2.3.1 Cooling Fan
+The fan blade should be inspected for cracked
+or broken blades.  Additionally, the blade pitch
+should be uniform between blades.  Verify that
+the fan is not rubbing on the bell or on any fan
+guarding.
+Never operate the station with missing or
+damaged fan blades or without the fan blades
+properly installed.
+13
+ANGI OPERATION AND SERVICE MANUAL      Rev 2006/06
+6.2.3.2 Gas Cooler Cores
+Inspect coolers for loose inlet and discharge
+clamps, leaks and debris caught in the cooler fins.
+Clear all debris from cooler fins and/or cooler
+levers to assure full, unrestricted air flow is
+permitted across the entire cooler face.
+6.2.5. MONITORING & REPORTING GAUGE
+PRESSURES AND TEMPERATURES
+Recording and charting of gauge pressures and
+gauge temperatures can help identify a developing
+### compressor problem before downtime or damage
+results.
+ANGI recommends that all gauge temperatures
+and pressures be recorded on a daily basis and
+charted for trends.  Be sure to also record time of
+day, ambient temperature and any other
+
+results.
+ANGI recommends that all gauge temperatures
+and pressures be recorded on a daily basis and
+charted for trends.  Be sure to also record time of
+day, ambient temperature and any other
+environmental condition that may influence gauge
+readings.
+6.2.4.  RECEIVER TANK
+Fluids filtered from the filter bowls are
+automatically drained and will collect in the
+receiver tank.  Therefore, the receiver tank should
+be drained periodically.  To drain the receiver tank,
+slowly open the manual valve located on the drain
+piping exiting the bottom of the receiver tank.
+A high liquid level switch is provided in the receiver
+tank to fault the station should the liquid level
+become to high.
+6.2.5.  COMPRESSOR VALVES
+This compressor is equipped with premium
+### compressor valves manufactured by the Hoerbiger
+Corporation.
+### Compressor valves require periodic inspection,
+cleaning and rebuild.  These operations should be
+performed per instructions provided in the
+Hoerbiger service manual and the Ariel
+### compressor service manual included with this
+manual.
+Careful attention must be paid to component
+orientation and assembly sequence.  When
+replacing springs, use replacement springs with
+identical springing valves.
+
+### compressor service manual included with this
+manual.
+Careful attention must be paid to component
+orientation and assembly sequence.  When
+replacing springs, use replacement springs with
+identical springing valves.
+6.2.6.  FILTERS AND OIL SEPARATORS
+6.2.6.1 Inlet Filter
+An inlet filter is provided to keep particulate
+material and minor slugs of water and oil out of
+the compression system.  This filter is equipped
+with sight gage to indicate if any amount of liquid
+is accumulating in the filter bowl.
+If liquid has collected in the bowl, drain the filter
+bowl using the manual service valve at the
+bottom of the filter bowl.
+Since this filter has only limited capacity to
+protect the compressor from damage due to
+liquid in the gas stream, any observance of
+liquid in the filter bowl should be investigated.  If
+an inlet gas dryer is used in the process it may
+need to be serviced.  If no dryer is present, one
+may need to be added.
+The inlet filter has a replaceable or washable
+filter element installed. This element needs to be
+changed or cleaned at the prescribed service
+interval.
+
+may need to be added.
+The inlet filter has a replaceable or washable
+filter element installed. This element needs to be
+changed or cleaned at the prescribed service
+interval.
+6.2.6.2 Coalescing Filters
+Inter-stage and final discharge coalescing filters
+are provided to control oil introduced into the
+gas by the compression process and to
+eliminate in liquids which may have condensed
+out of the gas stream during compression.
+The inter-stage filters utilize removable fine
+mesh strainer elements that may be cleaned
+and re-used.  These elements should be pulled
+out of the filter housing for inspection and
+cleaning at the prescribed service interval.  If
+any portion of the element appears damaged or
+stressed, then replace the element with a new
+one.  Inspect the sealing o-ring on the element
+holder and the housing cover to assure it has
+not been damaged.  Use care not the damage
+the seals when re-installing the element and
+element holder.
+The final filters utilize repl aceable filter elements
+that should be replaced at intervals prescribed
+on the periodic maintenance schedule.  When
+replacing these elements, assure they are
+properly mounted in the filter assembly and use
+
+The final filters utilize repl aceable filter elements
+that should be replaced at intervals prescribed
+on the periodic maintenance schedule.  When
+replacing these elements, assure they are
+properly mounted in the filter assembly and use
+caution not to cut or damage pressure-sealing o-
+rings on the filter.
+14
+ANGI OPERATION AND SERVICE MANUAL      Rev 2006/06
+7. TROUBLESHOOTING
+1. Low Compressor Oil Pressures
+A. Check the oil level
+B. Check/Replace oil filter element
+C. Clean oil strainer bowl
+D. Check for oil leak
+E. Check for defective pressure switch
+F.  Check/Adjust oil pressure reg. setting
+G.  Check oil pressure pump
+H.   Check 3 phase circuit breaker/fuses
+2. High Discharge Temperature
+A.  Check for failed compressor valve
+B.  Check cooler fins for debris
+C. Check cooler fan.
+D.  Check for high discharge temperature
+E.  Compare RTD reading to thermometer
+reading to verify RTD function
+3. High Inlet Pressure
+A.  Check induction regulator setting (off
+skid)
+B.  Check receiver tank discharge regulator
+setting
+4. High Discharge Pressure
+
+3. High Inlet Pressure
+A.  Check induction regulator setting (off
+skid)
+B.  Check receiver tank discharge regulator
+setting
+4. High Discharge Pressure
+A.  Check compressor valves
+B.  Check for blockage in discharge piping
+5. Low Discharge Pressure
+A. Check for low induction pressure
+B.  Check for leaks
+C.  Check valves
+D.  Check for restrictions in inlet
+E.  Check/Replace Filter Elements
+6. Low Flow Capacity
+A.  Check for leaks
+B.  Check for low induction pressure
+C.  Check for proper driver rpm
+D. Check compressor valves
+E. Inspect compressor piston rings
+8. Unit Shuts Down After Start Sequence
+A.  Read fault indications
+B.  Verify that the motor starter did not
+overload
+9. High Oil Carry-over In Discharge Gas
+A.  Check/Replace inter-stage & final filters
+B.  Verify operation of automatic drain
+sequence
+C. Check for proper crankcase lube level
+D.  Verify force-feed lube rate
+E.  Check compressor inlet valves
+10. High Lube Temp – Compressor
+A.  Clear any debris from oil cooler
+B.  Check/Replace oil filter element
+
+C. Check for proper crankcase lube level
+D.  Verify force-feed lube rate
+E.  Check compressor inlet valves
+10. High Lube Temp – Compressor
+A.  Clear any debris from oil cooler
+B.  Check/Replace oil filter element
+C.  Change oil if required.
+11. High Receiver Tank Pressure
+A.  Verify receiver discharge reg. setting
+B.  Make sure liquid level float switch is
+functioning and the receiver tank is
+drained
+C. Check discharge check valve for
+leakage
+12. Hi/Low Analog Temperature Readings
+On Several Channels
+A. Verify that DC power supply in the
+control panel is delivering 24.0 VDC
+B. Replace or swap analog input card
+13. Hi/Low Analog Temperature Readings
+on a Single Channel
+A. Check wiring between A/D card and
+barrier and between barrier and
+traducer.
+B. Replace transmitter or RTD
+C. Replace input barrier
+15
+ANGI OPERATION AND SERVICE MANUAL      Rev 2006/06
+APPENDIX 1.  Preventive Maintenance Schedule
+### Maintenance Levels Level 1 Level 2 Level 3 Level 4 Level 5
+Operation Interval
+Daily
+Monthly
+Every
+2000
+Hours Of
+Operation
+
+Operation Interval
+Daily
+Monthly
+Every
+2000
+Hours Of
+Operation
+Every
+4000
+Hours Of
+Operation
+Every
+8000
+Hours Of
+Operation
+Shutdown Required Yes Yes Yes Yes Yes
+Item
+Service Item
+1 Monitor & Record Working Pressures and Temperatures  9
+2 Check Compressor, Piping and Tubing For Obvious Leaks, Loose
+Connections or Loose Clamps
+9
+3 Check For Rough/Unusual  Noises   9
+4 Check Compressor Oil Level   9
+5 Drain Receiver Tank If Required  9
+6 Drain Condensate Pot  9
+7 Change Compressor Oil & Filter And Clean Strainer    9
+8 Clean Inter-stage Stage Filter Elements and Replace Final Filter Elements
+and Inlet Filter Elements
+9
+9 Inspect Safety Relief Valves   9
+10 Inspect Compressor Valves   9
+11 Inspect Compressor Rings and Seals    9
+12 Verify Driver / Compressor Alignment    9
+13 Inspect Compressor Crank Shaft Main & Rod Bearings    9
+14 Inspect Compressor Lub. Drive Chain    9
+15 Drain and Clean Heat Exchanger Cores    9

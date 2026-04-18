@@ -1,0 +1,27 @@
+# Requirements for RAG Predictive Maintenance
+
+# Core data and ML libraries
+pandas
+numpy
+matplotlib
+scikit-learn
+imbalanced-learn
+
+# Explainability
+lime
+shap
+
+# Retrieval and embeddings
+sentence-transformers
+faiss-cpu
+rank-bm25
+
+# Models
+xgboost
+
+# Utilities
+joblib
+
+# Optional (for Colab or local Jupyter execution)
+jupyter
+notebook
