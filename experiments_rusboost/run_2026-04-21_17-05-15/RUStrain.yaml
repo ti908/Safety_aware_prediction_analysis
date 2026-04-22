@@ -1,0 +1,38 @@
+calibration:
+  method: isotonic
+data:
+  path: Data_file/ai4i2020.csv
+  random_state: 42
+features:
+  input:
+  - Air temperature [K]
+  - Process temperature [K]
+  - Rotational speed [rpm]
+  - Torque [Nm]
+  - Tool wear [min]
+  - Product_ID
+  target: Machine failure
+model:
+  estimator:
+    max_depth: 4
+  learning_rate: 0.1
+  n_estimators: 100
+  random_state: 42
+output:
+  model_path: models/rusboost.pkl
+  save_model: true
+preprocessing:
+  encode_product_id: true
+  scale: true
+split:
+  cal_size: 0.25
+  test_size: 0.2
+threshold:
+  objective: recall
+  search_max: 0.5
+  search_min: 0.01
+  steps: 100
+validation:
+  n_splits: 5
+  random_state: 42
+  shuffle: true

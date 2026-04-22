@@ -1,0 +1,37 @@
+calibration:
+  method: isotonic
+data:
+  path: Data_file/ai4i2020.csv
+  random_state: 42
+features:
+  input:
+  - Product_ID
+  - Air temperature [K]
+  - Process temperature [K]
+  - Rotational speed [rpm]
+  - Torque [Nm]
+  - Tool wear [min]
+  target: Machine failure
+model:
+  colsample_bytree: 0.8
+  learning_rate: 0.05
+  max_depth: 5
+  n_estimators: 300
+  random_state: 42
+  reg_lambda: 1.0
+  scale_pos_weight: null
+  subsample: 0.8
+output:
+  model_path: models/xgboost_calibrated.pkl
+  save_model: true
+preprocessing:
+  encode_product_id: true
+  scale: false
+split:
+  cal_size: 0.25
+  test_size: 0.2
+threshold:
+  objective: recall
+  search_max: 0.5
+  search_min: 0.01
+  steps: 100

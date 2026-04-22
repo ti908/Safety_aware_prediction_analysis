@@ -1,0 +1,45 @@
+data:
+  path: Data_file/ai4i2020.csv
+  random_state: 42
+
+features:
+  input:
+    - Product_ID
+    - Air temperature [K]
+    - Process temperature [K]
+    - Rotational speed [rpm]
+    - Torque [Nm]
+    - Tool wear [min]
+  target: Machine failure
+
+preprocessing:
+  encode_product_id: true
+  scale: false   # XGBoost usually doesn't need scaling
+
+split:
+  test_size: 0.2
+  cal_size: 0.25   # applied on remaining 0.8 → 0.2 overall
+
+model:
+  n_estimators: 300
+  max_depth: 5
+  learning_rate: 0.05
+  subsample: 0.8
+  colsample_bytree: 0.8
+  reg_lambda: 1.0
+  random_state: 42
+  # handle imbalance
+  scale_pos_weight: null   # if null, compute from data
+
+calibration:
+  method: isotonic   # or "sigmoid"
+
+threshold:
+  search_min: 0.01
+  search_max: 0.5
+  steps: 100
+  #objective: recall      # or "f1" if you want safety-first
+
+output:
+  save_model: true
+  model_path: models/xgboost_calibrated.pkl
