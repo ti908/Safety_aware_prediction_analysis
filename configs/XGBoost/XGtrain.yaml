@@ -38,6 +38,7 @@ threshold:
   search_min: 0.01
   search_max: 0.5
   steps: 100
+  target_recall: 0.90
   #objective: recall      # or "f1" if you want safety-first
 
 output:

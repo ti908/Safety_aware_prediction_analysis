@@ -109,34 +109,62 @@ def train_rusboost(config_path="RUStrain.yaml"):
     best_threshold = 0.5
     best_score = -1
 
+#----------------------------------------------------
     # from sklearn.metrics import recall_score
     #
+    # best_threshold = 0.5
+    # best_score = -1
+
     # for t in thresholds:
     #     preds = (cal_proba >= t).astype(int)
     #     score = recall_score(y_cal, preds)
     #
     #     if score > best_score:
     #         best_score = score
-    #         best_threshold = t
-    #
-    #     if score > best_score:
-    #         best_score = score
-    #         best_threshold = t
+    #         best_threshold = t    # --- DEBUG / LOGGING ---
+#-------------------------------------------------------
 
-    from sklearn.metrics import recall_score
+    from sklearn.metrics import recall_score, precision_score
 
-    best_threshold = 0.5
-    best_score = -1
+    TARGET_RECALL = cfg["threshold"].get("target_recall", 0.90)
+
+    best_threshold = None
+    best_precision = -1
 
     for t in thresholds:
         preds = (cal_proba >= t).astype(int)
-        score = recall_score(y_cal, preds)
 
-        if score > best_score:
-            best_score = score
-            best_threshold = t    # --- DEBUG / LOGGING ---
+        recall = recall_score(y_cal, preds)
+        precision = precision_score(y_cal, preds, zero_division=0)
+
+        # Keep only thresholds that satisfy recall requirement
+        if recall >= TARGET_RECALL:
+            if precision > best_precision:
+                best_precision = precision
+                best_threshold = t
+
+    # 🔴 SAFETY FALLBACK (important)
+    if best_threshold is None:
+        print("WARNING: No threshold meets target recall. Falling back to max recall.")
+
+        best_threshold = thresholds[0]
+        best_score = -1
+
+        for t in thresholds:
+            preds = (cal_proba >= t).astype(int)
+            recall = recall_score(y_cal, preds)
+
+            if recall > best_score:
+                best_score = recall
+                best_threshold = t
+
+    # DEBUG OUTPUT
     print(f"Chosen Threshold: {best_threshold}")
-    print(f"Calibration Recall: {recall_score(y_cal, (cal_proba >= best_threshold)).astype(float):.4f}")
+    print(f"Calibration Recall: {recall_score(y_cal, (cal_proba >= best_threshold)):.4f}")
+    print(f"Calibration Precision: {precision_score(y_cal, (cal_proba >= best_threshold), zero_division=0):.4f}")
+
+   # print(f"Calibration Recall: {recall_score(y_cal, (cal_proba >= best_threshold)).astype(float):.4f}")
+
 
     # =============================
     # 7. FINAL TEST EVALUATION
@@ -149,7 +177,8 @@ def train_rusboost(config_path="RUStrain.yaml"):
         "classification_report": classification_report(y_test, y_pred_test, output_dict=True),
         "roc_auc": roc_auc_score(y_test, y_proba_test),
         "pr_auc": average_precision_score(y_test, y_proba_test),
-        "threshold": best_threshold
+        "threshold": best_threshold,
+        "target_recall": TARGET_RECALL
     }
 
 

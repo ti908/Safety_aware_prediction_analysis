@@ -31,6 +31,7 @@ threshold:
   search_max: 0.5
   search_min: 0.01
   steps: 100
+  target_recall: 0.9
 validation:
   n_splits: 5
   random_state: 42
