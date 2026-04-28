@@ -6,7 +6,8 @@
 # Importation of necessary dependencies
 import json
 from pathlib import Path
-
+import joblib
+import yaml
 import numpy as np
 import pandas as pd
 from sklearn.calibration import CalibratedClassifierCV
@@ -23,6 +24,8 @@ from sklearn.metrics import (
     average_precision_score,
 )
 from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import LabelEncoder
+from sklearn.utils import compute_class_weight
 
 
 def load_config(config_path="RFtrain.yaml"):
@@ -384,7 +387,8 @@ def trainRF(config_path="RFtrain.yaml"):
     # =============================
     # 8. Step 5: Certainty + calibration tracking
     # =============================
-    probs_cal = calibrated_model.predict_proba(X_cal) if "calibrated_model" in locals() else calibrated_rf.predict_proba(X_cal)
+    #probs_cal = calibrated_model.predict_proba(X_cal) if "calibrated_model" in locals() else calibrated_rf.predict_proba(X_cal)
+    probs_cal = calibrated_rf.predict_proba(X_cal)
     certainty_cal = probs_cal.max(axis=1)
 
     step5_calibration = {
@@ -469,7 +473,8 @@ def trainRF(config_path="RFtrain.yaml"):
     # =============================
     # 11. Step 8 + Step 9: Final held-out test evaluation
     # =============================
-    probs_test = calibrated_model.predict_proba(X_test) if "calibrated_model" in locals() else calibrated_rf.predict_proba(X_test)
+    #probs_test = calibrated_model.predict_proba(X_test) if "calibrated_model" in locals() else calibrated_rf.predict_proba(X_test)
+    probs_test = calibrated_rf.predict_proba(X_test)
     certainty_test = probs_test.max(axis=1)
 
     cp_sets_test, cp_sizes_test, cp_amb_test = build_conformal_sets(
@@ -600,21 +605,6 @@ def trainRF(config_path="RFtrain.yaml"):
             }
         )
         results["artifact_paths"] = artifact_paths
-
-    # =============================
-    # 8. FINAL TEST EVALUATION
-    # =============================
-    y_proba_test = calibrated_rf.predict_proba(X_test)[:, 1]
-    y_pred_test = (y_proba_test >= best_threshold).astype(int)
-
-    results = {
-        "confusion_matrix": confusion_matrix(y_test, y_pred_test),
-        "classification_report": classification_report(y_test, y_pred_test, output_dict=True),
-        "roc_auc": roc_auc_score(y_test, y_proba_test),
-        "pr_auc": average_precision_score(y_test, y_proba_test),
-        "threshold": best_threshold,
-        "target_recall": TARGET_RECALL
-    }
 
     # =============================
     # 9. Save Model

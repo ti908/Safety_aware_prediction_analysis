@@ -39,8 +39,23 @@ threshold:
   search_max: 0.5
   steps: 100
   target_recall: 0.90
-  #objective: recall      # or "f1" if you want safety-first
+  #objective: recall # or "f1" if you want safety-first
 
 output:
   save_model: true
   model_path: models/xgboost_calibrated.pkl
+  save_step_artifacts: true
+  model_name: xgboost   # change per file
+  results_dir: results
+
+conformal:
+  alpha: 0.10
+  defer_on_ambiguous: true
+
+deferral:
+  tau_min: 0.50
+  tau_max: 0.99
+  steps: 100
+  c_fn: 20.0
+  c_fp: 1.0
+  c_def: 2.0

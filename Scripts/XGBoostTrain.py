@@ -357,9 +357,6 @@ def train_xgboost(config_path="XGtrain.yaml"):
     # =============================
     # 7) Threshold search (on calibration)
     # =============================
-    # =============================
-    # 7) Threshold search (on calibration)
-    # =============================
     from sklearn.metrics import recall_score
 
     cal_proba = calibrated_model.predict_proba(X_cal)[:, 1]
@@ -412,7 +409,8 @@ def train_xgboost(config_path="XGtrain.yaml"):
     # =============================
     # 8. Step 5: Certainty + calibration tracking
     # =============================
-    probs_cal = calibrated_model.predict_proba(X_cal) if "calibrated_model" in locals() else calibrated_rf.predict_proba(X_cal)
+    #probs_cal = calibrated_model.predict_proba(X_cal) if "calibrated_model" in locals() else calibrated_rf.predict_proba(X_cal)
+    probs_cal = calibrated_model.predict_proba(X_cal)
     certainty_cal = probs_cal.max(axis=1)
 
     step5_calibration = {
@@ -497,7 +495,8 @@ def train_xgboost(config_path="XGtrain.yaml"):
     # =============================
     # 11. Step 8 + Step 9: Final held-out test evaluation
     # =============================
-    probs_test = calibrated_model.predict_proba(X_test) if "calibrated_model" in locals() else calibrated_rf.predict_proba(X_test)
+    #probs_test = calibrated_model.predict_proba(X_test) if "calibrated_model" in locals() else calibrated_rf.predict_proba(X_test)
+    probs_test = calibrated_model.predict_proba(X_test)
     certainty_test = probs_test.max(axis=1)
 
     cp_sets_test, cp_sizes_test, cp_amb_test = build_conformal_sets(
@@ -628,20 +627,6 @@ def train_xgboost(config_path="XGtrain.yaml"):
             }
         )
         results["artifact_paths"] = artifact_paths
-    # =============================
-    # 8) Final test evaluation
-    # =============================
-    y_proba_test = calibrated_model.predict_proba(X_test)[:, 1]
-    y_pred_test = (y_proba_test >= best_threshold).astype(int)
-
-    results = {
-        "confusion_matrix": confusion_matrix(y_test, y_pred_test),
-        "classification_report": classification_report(y_test, y_pred_test, output_dict=True),
-        "roc_auc": roc_auc_score(y_test, y_proba_test),
-        "pr_auc": average_precision_score(y_test, y_proba_test),
-        "threshold": best_threshold,
-        "target_recall": TARGET_RECALL
-    }
 
     # =============================
     # 9) Save calibrated model

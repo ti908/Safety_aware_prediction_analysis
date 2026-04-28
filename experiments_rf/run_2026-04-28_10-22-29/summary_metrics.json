@@ -1,0 +1,17 @@
+{
+    "model": "RandomForest",
+    "threshold": 0.03474747474747475,
+    "brier_score": 0.016433124577770086,
+    "log_loss": 0.059883003073020774,
+    "conformal_coverage_cal": 0.919,
+    "conformal_avg_set_size_cal": 0.9235,
+    "best_tau": 0.5,
+    "cost_per_sample": 0.249,
+    "coverage_after_deferral": 0.9235,
+    "roc_auc": 0.9576939471440751,
+    "pr_auc": 0.715609070185756,
+    "final_coverage": 0.941,
+    "final_deferred_fraction": 0.059,
+    "final_cost_per_sample": 0.2185,
+    "final_recall_retained": 0.8235294117647058
+}

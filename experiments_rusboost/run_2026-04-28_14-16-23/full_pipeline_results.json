@@ -1,0 +1,144 @@
+{
+    "model": "RUSBoost",
+    "step5_calibration": {
+        "brier_score": 0.017485673030248512,
+        "log_loss": 0.058870701786256294,
+        "certainty_mean": 0.9775000000000004,
+        "certainty_median": 0.9994186046511628,
+        "certainty_min": 0.6363636363636364,
+        "certainty_max": 1.0
+    },
+    "step6_conformal": {
+        "alpha": 0.1,
+        "q_level": 0.9005,
+        "q_alpha": 0.10227272727272729,
+        "coverage_cal": 0.9215,
+        "avg_set_size_cal": 0.927,
+        "singleton_rate_cal": 0.927,
+        "ambiguous_rate_cal": 0.0,
+        "empty_set_rate_cal": 0.073
+    },
+    "step7_deferral": {
+        "best_tau": 0.5,
+        "best_cost_per_sample": 0.2055,
+        "best_total_cost": 411.0,
+        "coverage_at_best_tau": 0.927,
+        "deferred_fraction_at_best_tau": 0.073,
+        "retained_error_at_best_tau": 0.043689320388349516,
+        "retained_recall_at_best_tau": 0.9230769230769231,
+        "retained_precision_at_best_tau": 0.23300970873786409
+    },
+    "step9_final": {
+        "overall_test": {
+            "confusion_matrix": [
+                [
+                    1776,
+                    156
+                ],
+                [
+                    5,
+                    63
+                ]
+            ],
+            "classification_report": {
+                "0": {
+                    "precision": 0.9971925884334644,
+                    "recall": 0.9192546583850931,
+                    "f1-score": 0.956638836520334,
+                    "support": 1932.0
+                },
+                "1": {
+                    "precision": 0.2876712328767123,
+                    "recall": 0.9264705882352942,
+                    "f1-score": 0.43902439024390244,
+                    "support": 68.0
+                },
+                "accuracy": 0.9195,
+                "macro avg": {
+                    "precision": 0.6424319106550883,
+                    "recall": 0.9228626233101936,
+                    "f1-score": 0.6978316133821182,
+                    "support": 2000.0
+                },
+                "weighted avg": {
+                    "precision": 0.9730688623445347,
+                    "recall": 0.9195,
+                    "f1-score": 0.9390399453469352,
+                    "support": 2000.0
+                }
+            },
+            "roc_auc": 0.9556844476921204,
+            "pr_auc": 0.6306779905553481,
+            "base_threshold": 0.03474747474747475
+        },
+        "conformal_test": {
+            "coverage_test": 0.935,
+            "avg_set_size_test": 0.941,
+            "singleton_rate_test": 0.941,
+            "ambiguous_rate_test": 0.0,
+            "empty_set_rate_test": 0.059
+        },
+        "selective_prediction_test": {
+            "tau": 0.5,
+            "coverage": 0.941,
+            "deferred_fraction": 0.059,
+            "deferred_count": 118,
+            "retained_error": 0.04782146652497343,
+            "retained_recall": 0.7619047619047619,
+            "retained_precision": 0.15841584158415842,
+            "fn": 5,
+            "fp": 85,
+            "tp": 16,
+            "tn": 1776,
+            "total_cost": 421.0,
+            "cost_per_sample": 0.2105,
+            "retained_confusion_matrix": [
+                [
+                    1776,
+                    85
+                ],
+                [
+                    5,
+                    16
+                ]
+            ],
+            "retained_classification_report": {
+                "0": {
+                    "precision": 0.9971925884334644,
+                    "recall": 0.9543256313809779,
+                    "f1-score": 0.9752883031301482,
+                    "support": 1861.0
+                },
+                "1": {
+                    "precision": 0.15841584158415842,
+                    "recall": 0.7619047619047619,
+                    "f1-score": 0.26229508196721313,
+                    "support": 21.0
+                },
+                "accuracy": 0.9521785334750266,
+                "macro avg": {
+                    "precision": 0.5778042150088114,
+                    "recall": 0.85811519664287,
+                    "f1-score": 0.6187916925486807,
+                    "support": 1882.0
+                },
+                "weighted avg": {
+                    "precision": 0.9878332304718089,
+                    "recall": 0.9521785334750266,
+                    "f1-score": 0.9673324807898603,
+                    "support": 1882.0
+                }
+            }
+        }
+    },
+    "deferred_case_summary": {
+        "coverage": 0.941,
+        "deferred_fraction": 0.059,
+        "deferred_count": 118,
+        "retained_error": 0.04782146652497343,
+        "retained_recall": 0.7619047619047619,
+        "retained_precision": 0.15841584158415842,
+        "cost_per_sample": 0.2105,
+        "total_cost": 421.0
+    }
+}
