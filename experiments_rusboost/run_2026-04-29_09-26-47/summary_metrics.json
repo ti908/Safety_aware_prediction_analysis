@@ -1,0 +1,17 @@
+{
+    "model": "RUSBoost",
+    "threshold": 0.03474747474747475,
+    "brier_score": 0.017485673030248512,
+    "log_loss": 0.058870701786256294,
+    "conformal_coverage_cal": 0.9215,
+    "conformal_avg_set_size_cal": 0.927,
+    "best_tau": 0.5,
+    "cost_per_sample": 0.2055,
+    "coverage_after_deferral": 0.927,
+    "roc_auc": 0.9556844476921204,
+    "pr_auc": 0.6306779905553481,
+    "final_coverage": 0.941,
+    "final_deferred_fraction": 0.059,
+    "final_cost_per_sample": 0.2105,
+    "final_recall_retained": 0.7619047619047619
+}

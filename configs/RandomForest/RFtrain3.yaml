@@ -1,0 +1,59 @@
+data:
+  path: Data_file/ai4i2020.csv
+  random_state: 42
+
+split:
+  test_size: 0.2
+  cal_size: 0.25
+
+calibration:
+  method: isotonic   # or "sigmoid"
+
+threshold:
+  search_min: 0.01
+  search_max: 0.5
+  steps: 100
+  target_recall: 0.90
+  #objective: recall # or "f1"
+
+#Data Features to analyse
+features:
+  input:
+    - Air temperature [K]
+    - Process temperature [K]
+    - Rotational speed [rpm]
+    - Torque [Nm]
+    - Tool wear [min]
+    - Product_ID
+  target: Machine failure
+
+# Model Parameters
+model:
+  type: random_forest
+  n_estimators: 100
+  max_depth: null
+  class_weight: balanced
+  random_state: 42
+
+preprocessing:
+  encode_product_id: true
+  stratify: true
+
+output:
+  save_model: true
+  model_path: models/random_forest.pkl
+  save_step_artifacts: true
+  model_name: random_forest   # change per file
+  results_dir: results
+
+conformal:
+  alpha: 0.10
+  defer_on_ambiguous: true
+
+deferral:
+  tau_min: 0.50
+  tau_max: 0.99
+  steps: 100
+  c_fn: 30.0
+  c_fp: 1.0
+  c_def: 5.0

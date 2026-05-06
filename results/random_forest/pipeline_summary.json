@@ -1,4 +1,5 @@
 {
+  "model": "RandomForest",
   "step4_thresholding": {
     "base_threshold": 0.03474747474747475,
     "target_recall": 0.9

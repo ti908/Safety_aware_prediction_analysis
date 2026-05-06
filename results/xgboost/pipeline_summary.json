@@ -1,4 +1,5 @@
 {
+  "model": "XGBoost",
   "step4_thresholding": {
     "base_threshold": 0.014949494949494949,
     "target_recall": 0.9

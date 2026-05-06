@@ -1,0 +1,17 @@
+{
+    "model": "XGBoost",
+    "threshold": 0.014949494949494949,
+    "brier_score": 0.014848021669217865,
+    "log_loss": 0.053020524410549816,
+    "conformal_coverage_cal": 0.9125,
+    "conformal_avg_set_size_cal": 0.917,
+    "best_tau": 0.5,
+    "cost_per_sample": 0.2375,
+    "coverage_after_deferral": 0.917,
+    "roc_auc": 0.9668584825234442,
+    "pr_auc": 0.6951967547023826,
+    "final_coverage": 0.925,
+    "final_deferred_fraction": 0.075,
+    "final_cost_per_sample": 0.2465,
+    "final_recall_retained": 0.625
+}

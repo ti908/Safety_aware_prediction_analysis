@@ -605,9 +605,11 @@ def train_xgboost(config_path="XGtrain.yaml"):
     })
 
     results = {
+        "model": "XGBoost",
+
         "step4_thresholding": {
             "base_threshold": float(best_threshold),
-            "target_recall": float(TARGET_RECALL)
+            "target_recall": float(cfg["threshold"]["target_recall"])
         },
         "step5_calibration": step5_calibration,
         "step6_conformal_calibration": step6_conformal_cal,

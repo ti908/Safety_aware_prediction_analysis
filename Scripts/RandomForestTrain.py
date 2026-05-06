@@ -583,6 +583,8 @@ def trainRF(config_path="RFtrain.yaml"):
     })
 
     results = {
+        "model": "RandomForest",
+
         "step4_thresholding": {
             "base_threshold": float(best_threshold),
             "target_recall": float(TARGET_RECALL)

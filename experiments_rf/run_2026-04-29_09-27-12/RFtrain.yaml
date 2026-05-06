@@ -1,0 +1,47 @@
+calibration:
+  method: isotonic
+conformal:
+  alpha: 0.1
+  defer_on_ambiguous: true
+data:
+  path: Data_file/ai4i2020.csv
+  random_state: 42
+deferral:
+  c_def: 2.0
+  c_fn: 20.0
+  c_fp: 1.0
+  steps: 100
+  tau_max: 0.99
+  tau_min: 0.5
+features:
+  input:
+  - Air temperature [K]
+  - Process temperature [K]
+  - Rotational speed [rpm]
+  - Torque [Nm]
+  - Tool wear [min]
+  - Product_ID
+  target: Machine failure
+model:
+  class_weight: balanced
+  max_depth: null
+  n_estimators: 100
+  random_state: 42
+  type: random_forest
+output:
+  model_name: random_forest
+  model_path: models/random_forest.pkl
+  results_dir: results
+  save_model: true
+  save_step_artifacts: true
+preprocessing:
+  encode_product_id: true
+  stratify: true
+split:
+  cal_size: 0.25
+  test_size: 0.2
+threshold:
+  search_max: 0.5
+  search_min: 0.01
+  steps: 100
+  target_recall: 0.9
