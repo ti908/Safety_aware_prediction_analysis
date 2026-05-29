@@ -1,0 +1,16 @@
+Experiment Notes
+=================
+
+Timestamp: 2026-05-20_13-27-11
+
+Observations:
+- 
+
+Key Results:
+- ROC AUC: 0.9577
+- PR AUC: 0.7156
+- Cost per sample: 0.2185
+- Deferred fraction: 0.0590
+
+Next Steps:
+- 

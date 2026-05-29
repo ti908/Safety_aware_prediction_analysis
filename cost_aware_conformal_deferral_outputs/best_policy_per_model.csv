@@ -1,0 +1,4 @@
+model,policy,tau,coverage,deferred_fraction,retained_error,retained_recall,retained_precision,fn,fp,deferred_count,total_cost,cost_per_sample
+RUSBoost,No Deferral,0.0,1.0,0.0,0.0805,0.9264705882352942,0.2876712328767123,5,156,0,256.0,0.128
+RandomForest,No Deferral,0.0,1.0,0.0,0.0855,0.9117647058823529,0.27312775330396477,6,165,0,285.0,0.1425
+XGBoost,No Deferral,0.0,1.0,0.0,0.0885,0.9117647058823529,0.26609442060085836,6,171,0,291.0,0.1455

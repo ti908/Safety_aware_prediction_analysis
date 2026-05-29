@@ -1,0 +1,52 @@
+{
+    "tau": 0.5,
+    "coverage": 0.925,
+    "deferred_fraction": 0.075,
+    "deferred_count": 150,
+    "retained_error": 0.042702702702702704,
+    "retained_recall": 0.625,
+    "retained_precision": 0.12048192771084337,
+    "fn": 6,
+    "fp": 73,
+    "tp": 10,
+    "tn": 1761,
+    "total_cost": 493.0,
+    "cost_per_sample": 0.2465,
+    "retained_confusion_matrix": [
+        [
+            1761,
+            73
+        ],
+        [
+            6,
+            10
+        ]
+    ],
+    "retained_classification_report": {
+        "0": {
+            "precision": 0.9966044142614601,
+            "recall": 0.9601962922573609,
+            "f1-score": 0.978061649541794,
+            "support": 1834.0
+        },
+        "1": {
+            "precision": 0.12048192771084337,
+            "recall": 0.625,
+            "f1-score": 0.20202020202020202,
+            "support": 16.0
+        },
+        "accuracy": 0.9572972972972973,
+        "macro avg": {
+            "precision": 0.5585431709861517,
+            "recall": 0.7925981461286804,
+            "f1-score": 0.590040925780998,
+            "support": 1850.0
+        },
+        "weighted avg": {
+            "precision": 0.9890271387021035,
+            "recall": 0.9572972972972973,
+            "f1-score": 0.9713499397253911,
+            "support": 1850.0
+        }
+    }
+}

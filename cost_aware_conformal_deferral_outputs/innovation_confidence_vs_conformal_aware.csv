@@ -1,0 +1,6 @@
+,cost_per_sample,cost_per_sample,coverage,coverage,deferred_fraction,deferred_fraction,retained_error,retained_error,retained_recall,retained_recall,fn,fn
+policy,Confidence-Only Deferral,Conformal-Aware Deferral,Confidence-Only Deferral,Conformal-Aware Deferral,Confidence-Only Deferral,Conformal-Aware Deferral,Confidence-Only Deferral,Conformal-Aware Deferral,Confidence-Only Deferral,Conformal-Aware Deferral,Confidence-Only Deferral,Conformal-Aware Deferral
+model,,,,,,,,,,,,
+RUSBoost,0.128,0.2105,1.0,0.941,0.0,0.059,0.0805,0.04782146652497343,0.9264705882352942,0.7619047619047619,5.0,5.0
+RandomForest,0.1425,0.2185,1.0,0.941,0.0,0.059,0.0855,0.04622741764080765,0.9117647058823529,0.8235294117647058,6.0,6.0
+XGBoost,0.1455,0.2465,1.0,0.925,0.0,0.075,0.0885,0.042702702702702704,0.9117647058823529,0.625,6.0,6.0
